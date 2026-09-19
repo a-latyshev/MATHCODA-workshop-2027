@@ -1,15 +1,23 @@
 <div class="mathcoda-footer-wrapper">
   <div class="mathcoda-footer-logos">
     <a href="https://www.uni.lu" target="_blank" rel="noopener noreferrer" class="mathcoda-footer-logo-link" title="University of Luxembourg">
-      <img src="assets/logo_uni.png" alt="University of Luxembourg" class="mathcoda-footer-logo uni-logo" />
+      <img src="assets/uni_logo_light.png" alt="University of Luxembourg" class="mathcoda-footer-logo uni-logo logo-light" />
+      <img src="assets/uni_logo_dark.png" alt="University of Luxembourg" class="mathcoda-footer-logo uni-logo logo-dark" />
+    </a>
+    <div class="mathcoda-logo-separator"></div>
+    <a href="https://www.uni.lu/fstm-en/" target="_blank" rel="noopener noreferrer" class="mathcoda-footer-logo-link" title="Faculty of Science, Technology and Medicine (FSTM)">
+      <img src="assets/fstm_logo_light.png" alt="Faculty of Science, Technology and Medicine (FSTM)" class="mathcoda-footer-logo fstm-logo logo-light" />
+      <img src="assets/fstm_logo_dark.png" alt="Faculty of Science, Technology and Medicine (FSTM)" class="mathcoda-footer-logo fstm-logo logo-dark" />
     </a>
     <div class="mathcoda-logo-separator"></div>
     <a href="https://math.uni.lu" target="_blank" rel="noopener noreferrer" class="mathcoda-footer-logo-link" title="MATHCODA Doctoral Training Unit">
-      <img src="assets/logo_mathcoda.png" alt="MATHCODA Project" class="mathcoda-footer-logo mathcoda-logo" />
+      <img src="assets/mathcoda_logo_light.png" alt="MATHCODA Project" class="mathcoda-footer-logo mathcoda-logo logo-light" />
+      <img src="assets/mathcoda_logo_dark.png" alt="MATHCODA Project" class="mathcoda-footer-logo mathcoda-logo logo-dark" />
     </a>
     <div class="mathcoda-logo-separator"></div>
     <a href="https://www.fnr.lu" target="_blank" rel="noopener noreferrer" class="mathcoda-footer-logo-link" title="Luxembourg National Research Fund (FNR)">
-      <img src="assets/logo_fnr.png" alt="Luxembourg National Research Fund (FNR)" class="mathcoda-footer-logo fnr-logo" />
+      <img src="assets/fnr_logo_light.png" alt="Luxembourg National Research Fund (FNR)" class="mathcoda-footer-logo fnr-logo logo-light" />
+      <img src="assets/fnr_logo_dark.png" alt="Luxembourg National Research Fund (FNR)" class="mathcoda-footer-logo fnr-logo logo-dark" />
     </a>
   </div>
 

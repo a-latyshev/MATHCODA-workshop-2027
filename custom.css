@@ -328,15 +328,24 @@ tbody tr:hover {
 }
 
 /* --------------------------------------------------------------------------
-   Global Dark Footer Banner (Matching Reference Design)
+   Adaptive Footer Banner (Light & Dark Mode)
    -------------------------------------------------------------------------- */
 footer.article.footer {
-  background-color: var(--mathcoda-bg-dark) !important;
-  color: #f1f5f9 !important;
+  background-color: #f8fafc !important;
+  color: #334155 !important;
   padding: 56px 20px 44px 20px !important;
   margin-top: 72px !important;
-  border-top: 1px solid rgba(255, 255, 255, 0.1);
-  box-shadow: 0 -10px 30px rgba(0, 0, 0, 0.2) !important;
+  border-top: 1px solid #e2e8f0 !important;
+  box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.03) !important;
+  transition: background-color 0.25s ease, border-color 0.25s ease, color 0.25s ease !important;
+}
+
+html.dark footer.article.footer,
+.dark footer.article.footer {
+  background-color: var(--mathcoda-bg-dark) !important;
+  color: #f1f5f9 !important;
+  border-top: 1px solid rgba(255, 255, 255, 0.08) !important;
+  box-shadow: 0 -10px 30px rgba(0, 0, 0, 0.3) !important;
 }
 
 .mathcoda-footer-wrapper {
@@ -352,22 +361,22 @@ footer.article.footer {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 28px;
+  gap: 32px;
 }
 
 .mathcoda-footer-logo-link {
   display: inline-flex !important;
   align-items: center !important;
   justify-content: center !important;
-  background: #ffffff !important;
-  border-radius: 12px !important;
-  padding: 10px 22px !important;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25) !important;
-  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.2s ease !important;
-  height: 64px !important;
-  min-width: 160px !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+  border-radius: 0 !important;
+  padding: 4px 8px !important;
+  height: auto !important;
+  min-width: auto !important;
   text-decoration: none !important;
-  overflow: hidden !important;
+  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.2s ease !important;
 }
 
 .mathcoda-footer-logo-link .link-icon {
@@ -375,18 +384,41 @@ footer.article.footer {
 }
 
 .mathcoda-footer-logo-link:hover {
-  transform: translateY(-3px) !important;
-  box-shadow: 0 8px 24px rgba(37, 99, 235, 0.4) !important;
+  transform: translateY(-2px) !important;
+  opacity: 0.82 !important;
+}
+
+/* Light Mode vs Dark Mode Logo Visibility */
+.logo-light,
+picture.logo-light {
+  display: flex !important;
+}
+
+.logo-dark,
+picture.logo-dark {
+  display: none !important;
+}
+
+html.dark .logo-light,
+.dark .logo-light,
+html.dark picture.logo-light,
+.dark picture.logo-light {
+  display: none !important;
+}
+
+html.dark .logo-dark,
+.dark .logo-dark,
+html.dark picture.logo-dark,
+.dark picture.logo-dark {
+  display: flex !important;
 }
 
 .mathcoda-footer-logo,
 .mathcoda-footer-logo picture {
-  display: flex !important;
   align-items: center !important;
   justify-content: center !important;
   height: 44px !important;
   max-height: 44px !important;
-  max-width: 200px !important;
   width: auto !important;
   margin: 0 !important;
 }
@@ -395,7 +427,7 @@ footer.article.footer {
 .mathcoda-footer-logo-link img {
   height: 42px !important;
   max-height: 42px !important;
-  max-width: 180px !important;
+  max-width: 220px !important;
   width: auto !important;
   object-fit: contain !important;
   display: block !important;
@@ -404,7 +436,13 @@ footer.article.footer {
 
 .mathcoda-logo-separator {
   width: 1px;
-  height: 44px;
+  height: 38px;
+  background: #cbd5e1;
+  transition: background-color 0.25s ease;
+}
+
+html.dark .mathcoda-logo-separator,
+.dark .mathcoda-logo-separator {
   background: rgba(255, 255, 255, 0.15);
 }
 
@@ -412,15 +450,14 @@ footer.article.footer {
   .mathcoda-logo-separator {
     display: none;
   }
-  .mathcoda-footer-logo-link {
-    min-width: 130px !important;
-    height: 52px !important;
-    padding: 6px 14px !important;
+  .mathcoda-footer-logos {
+    gap: 20px;
   }
   .mathcoda-footer-logo img,
   .mathcoda-footer-logo-link img {
-    height: 32px !important;
-    max-height: 32px !important;
+    height: 34px !important;
+    max-height: 34px !important;
+    max-width: 160px !important;
   }
 }
 
@@ -429,8 +466,19 @@ footer.article.footer {
   height: 1px;
   background: linear-gradient(
     90deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(203, 213, 225, 0.8) 50%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  transition: background 0.25s ease;
+}
+
+html.dark .mathcoda-footer-divider,
+.dark .mathcoda-footer-divider {
+  background: linear-gradient(
+    90deg,
     rgba(255, 255, 255, 0.02) 0%,
-    rgba(255, 255, 255, 0.2) 50%,
+    rgba(255, 255, 255, 0.18) 50%,
     rgba(255, 255, 255, 0.02) 100%
   );
 }
@@ -439,9 +487,14 @@ footer.article.footer {
   display: flex;
   align-items: center;
   gap: 24px;
-  color: #94a3b8;
+  color: #64748b;
   font-size: 0.88rem;
   line-height: 1.65;
+}
+
+html.dark .mathcoda-footer-disclaimer,
+.dark .mathcoda-footer-disclaimer {
+  color: #94a3b8;
 }
 
 .mathcoda-disclaimer-badge {
@@ -461,10 +514,15 @@ footer.article.footer {
   width: auto !important;
   display: block !important;
   border-radius: 4px !important;
-  transition: opacity 0.2s ease !important;
+  transition: opacity 0.2s ease, filter 0.25s ease !important;
 }
 
 .cc-badge-img:hover {
+  opacity: 0.85;
+}
+
+html.dark .cc-badge-img,
+.dark .cc-badge-img {
   opacity: 0.85;
 }
 
@@ -474,30 +532,59 @@ footer.article.footer {
 
 .mathcoda-disclaimer-text p {
   margin: 0;
+  color: #64748b;
+  transition: color 0.25s ease;
+}
+
+html.dark .mathcoda-disclaimer-text p,
+.dark .mathcoda-disclaimer-text p {
   color: #94a3b8;
 }
 
 .mathcoda-disclaimer-text strong {
+  color: #0f172a;
+  transition: color 0.25s ease;
+}
+
+html.dark .mathcoda-disclaimer-text strong,
+.dark .mathcoda-disclaimer-text strong {
   color: #f1f5f9;
 }
 
 .mathcoda-disclaimer-text code {
-  background: rgba(255, 255, 255, 0.12);
-  color: #93c5fd;
+  background: #e2e8f0;
+  color: #1e3a8a;
   padding: 2px 7px;
   border-radius: 4px;
   font-size: 0.85em;
   font-family: var(--mathcoda-mono);
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+html.dark .mathcoda-disclaimer-text code,
+.dark .mathcoda-disclaimer-text code {
+  background: rgba(255, 255, 255, 0.12);
+  color: #93c5fd;
 }
 
 .mathcoda-disclaimer-text a {
-  color: #60a5fa;
+  color: #2563eb;
   text-decoration: underline;
   text-underline-offset: 3px;
   transition: color 0.15s ease;
 }
 
 .mathcoda-disclaimer-text a:hover {
+  color: #1d4ed8;
+}
+
+html.dark .mathcoda-disclaimer-text a,
+.dark .mathcoda-disclaimer-text a {
+  color: #60a5fa;
+}
+
+html.dark .mathcoda-disclaimer-text a:hover,
+.dark .mathcoda-disclaimer-text a:hover {
   color: #93c5fd;
 }
 
@@ -508,3 +595,4 @@ footer.article.footer {
     gap: 16px;
   }
 }
+

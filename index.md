@@ -1,31 +1,29 @@
----
-title: MATHCODA Workshop 2027
-description: Annual Workshop on Mathematical and Computational Data Analytics at the University of Luxembourg
----
-
 <div class="hero-box">
   <h1>MATHCODA Workshop 2027</h1>
   <p class="hero-subtitle">
-    Annual Workshop of the Doctoral Training Unit on Mathematical and Computational Data Analytics
+    Annual Workshop of the Doctoral Training Unit MATHCODA at the University of Luxembourg.
   </p>
   <div class="hero-meta">
     <div class="hero-pill">
       📅 <strong>25–28 January 2027</strong>
     </div>
     <div class="hero-pill">
-      📍 <strong>MSA 3370, Campus Belval, Luxembourg</strong>
-    </div>
-    <div class="hero-pill">
-      🏛️ <strong>University of Luxembourg</strong>
+      📍 <strong>Luxembourg</strong>
     </div>
   </div>
 </div>
 
 ## Welcome to MATHCODA 2027
 
-The **MATHCODA Workshop 2027** brings together leading international researchers, doctoral candidates, and practitioners working at the forefront of mathematics, statistics, high-dimensional probability, and computational science.
+The **MATHCODA Workshop 2027** brings together leading international
+researchers, doctoral candidates, and practitioners working at the forefront of
+mathematics, statistics, high-dimensional probability, and computational
+mechanics.
 
-Organized by the **MATHCODA Doctoral Training Unit (DTU)** at the **University of Luxembourg**, this four-day conference features keynote lectures, invited scientific talks, doctoral research presentations, and vibrant social activities designed to foster interdisciplinary collaboration.
+Organized by the **MATHCODA Doctoral Training Unit (DTU)** at the **University
+of Luxembourg**, this four-day workshop features keynote lectures, invited
+scientific talks, doctoral research presentations, and vibrant social activities
+designed to foster interdisciplinary collaboration.
 
 :::{important}
 **Important Workshop Information**
@@ -86,44 +84,24 @@ Addressing surrogate modeling, physics-informed machine learning, finite element
 
 ---
 
-## Confirmed Keynote Speakers
-
-::::{grid} 1 2 2 2
-
-:::{grid-item-card} Prof. John Kent
-<span class="badge-keynote">Keynote Speaker</span>  
-**University of Leeds, United Kingdom**
-
-*Field*: Directional Statistics, Statistical Shape Analysis, and Applied Inference  
-*Session*: Day 1 — Statistical Inference & Modelling  
-[View Speaker Profile](speakers.md#prof-john-kent)
-:::
-
-:::{grid-item-card} Prof. Victor Chernozhukov
-<span class="badge-keynote">Keynote Speaker</span>  
-**Massachusetts Institute of Technology (MIT), USA**
-
-*Field*: Econometrics, High-Dimensional Statistics, and Causal Machine Learning  
-*Session*: Day 2 — Economics & Stochastic Processes  
-[View Speaker Profile](speakers.md#prof-victor-chernozhukov)
-:::
-
-::::
-
----
-
 ## Organizing Committee
 
 The workshop is organized by doctoral candidates and faculty members from the MATHCODA Doctoral Training Unit and the Department of Mathematics at the University of Luxembourg:
 
-* **Andrey Latyshev** (University of Luxembourg) — *Website & Engineering Track*
-* **Jack S. Hale** (University of Luxembourg) — *Senior Advisor & Scientific Coordination*
-* **Sophia** (University of Luxembourg) — *Statistics Track Coordinator*
-* **Francisco** (University of Luxembourg) — *Economics & Stochastics Track Coordinator*
-* **Ali** (University of Luxembourg) — *Economics & Stochastics Track Coordinator*
-* **Luis** (University of Luxembourg) — *Probability Track Coordinator*
-* **Lucia** (University of Luxembourg) — *Probability Track Coordinator*
-* **Prof. Giovanni Peccati** (University of Luxembourg) — *MATHCODA Coordinator & Head of Department*
+Doctoral researchers:
+* [**Andrey Latyshev**](https://www.linkedin.com/in/andrey-latyshev/) — *UQ in Engineering Track Coordinator*
+* **Sophia Loizidou** — *Statistics Track Coordinator*
+* **Francisco Pina Monzo** & **Ali Atabaigialami** — *Economics & Stochastics Track Coordinators*
+* **Luis Maia** & **Lucia Celli**  — *Probability Track Coordinator*
+
+PIs:
+* **Assoc. Prof Christophe LEY**
+* **Jack S. Hale** — *Senior Advisor & Scientific Coordination*
+* **Prof. Giovanni Peccati** — *MATHCODA Coordinator & Head of Department*
+
+## Contact information
+
+If you have any questions about the workshop organization, please contact us via **TBA**.
 
 ---
 

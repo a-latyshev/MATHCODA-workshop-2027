@@ -42,29 +42,50 @@ footer.article.footer {
 }
 
 .mathcoda-footer-logo-link {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  background: #ffffff;
-  border-radius: 10px;
-  padding: 10px 20px;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
-  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.2s ease;
-  height: 64px;
-  min-width: 150px;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  background: #ffffff !important;
+  border-radius: 10px !important;
+  padding: 8px 18px !important;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25) !important;
+  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.2s ease !important;
+  height: 60px !important;
+  min-width: 150px !important;
+  text-decoration: none !important;
+  overflow: hidden !important;
+}
+
+.mathcoda-footer-logo-link .link-icon {
+  display: none !important;
 }
 
 .mathcoda-footer-logo-link:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(37, 99, 235, 0.3);
+  transform: translateY(-2px) !important;
+  box-shadow: 0 6px 20px rgba(37, 99, 235, 0.35) !important;
 }
 
-.mathcoda-footer-logo {
-  height: 42px;
-  max-width: 220px;
-  width: auto;
-  object-fit: contain;
-  display: block;
+.mathcoda-footer-logo,
+.mathcoda-footer-logo picture {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  height: 42px !important;
+  max-height: 42px !important;
+  max-width: 200px !important;
+  width: auto !important;
+  margin: 0 !important;
+}
+
+.mathcoda-footer-logo img,
+.mathcoda-footer-logo-link img {
+  height: 40px !important;
+  max-height: 40px !important;
+  max-width: 180px !important;
+  width: auto !important;
+  object-fit: contain !important;
+  display: block !important;
+  margin: 0 !important;
 }
 
 .mathcoda-logo-separator {
@@ -78,12 +99,14 @@ footer.article.footer {
     display: none;
   }
   .mathcoda-footer-logo-link {
-    min-width: 130px;
-    height: 56px;
-    padding: 8px 14px;
+    min-width: 130px !important;
+    height: 52px !important;
+    padding: 6px 12px !important;
   }
-  .mathcoda-footer-logo {
-    height: 34px;
+  .mathcoda-footer-logo img,
+  .mathcoda-footer-logo-link img {
+    height: 32px !important;
+    max-height: 32px !important;
   }
 }
 
@@ -113,12 +136,18 @@ footer.article.footer {
   align-items: center;
 }
 
-.cc-badge-img {
-  height: 38px;
-  width: auto;
-  display: block;
-  border-radius: 4px;
-  transition: opacity 0.2s ease;
+.mathcoda-disclaimer-badge .link-icon {
+  display: none !important;
+}
+
+.cc-badge-img,
+.mathcoda-disclaimer-badge img {
+  height: 36px !important;
+  max-height: 36px !important;
+  width: auto !important;
+  display: block !important;
+  border-radius: 4px !important;
+  transition: opacity 0.2s ease !important;
 }
 
 .cc-badge-img:hover {

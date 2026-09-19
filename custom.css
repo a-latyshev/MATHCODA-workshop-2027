@@ -454,14 +454,20 @@ html.dark footer.article.footer,
 /* Default / Light Mode: show light logo, hide dark logo */
 .logo-light,
 picture.logo-light,
-.mathcoda-footer-logo-link picture.logo-light {
+picture.logo-light img,
+.mathcoda-footer-logo-link picture.logo-light,
+.mathcoda-footer-logo-link picture.logo-light img {
   display: inline-flex !important;
 }
 
 .logo-dark,
 picture.logo-dark,
-.mathcoda-footer-logo-link picture.logo-dark {
+picture.logo-dark img,
+.mathcoda-footer-logo-link picture.logo-dark,
+.mathcoda-footer-logo-link picture.logo-dark img,
+img.logo-dark {
   display: none !important;
+  visibility: hidden !important;
 }
 
 /* In Dark Mode: hide light logo, show dark logo */
@@ -469,9 +475,16 @@ html.dark .logo-light,
 .dark .logo-light,
 html.dark picture.logo-light,
 .dark picture.logo-light,
+html.dark picture.logo-light img,
+.dark picture.logo-light img,
 html.dark .mathcoda-footer-logo-link picture.logo-light,
-.dark .mathcoda-footer-logo-link picture.logo-light {
+.dark .mathcoda-footer-logo-link picture.logo-light,
+html.dark .mathcoda-footer-logo-link picture.logo-light img,
+.dark .mathcoda-footer-logo-link picture.logo-light img,
+html.dark img.logo-light,
+.dark img.logo-light {
   display: none !important;
+  visibility: hidden !important;
 }
 
 html.dark .logo-dark,
@@ -481,6 +494,14 @@ html.dark picture.logo-dark,
 html.dark .mathcoda-footer-logo-link picture.logo-dark,
 .dark .mathcoda-footer-logo-link picture.logo-dark {
   display: inline-flex !important;
+}
+
+html.dark picture.logo-dark img,
+.dark picture.logo-dark img,
+html.dark .mathcoda-footer-logo-link picture.logo-dark img,
+.dark .mathcoda-footer-logo-link picture.logo-dark img {
+  display: block !important;
+  visibility: visible !important;
 }
 
 /* Base Logo Sizing in Footer */
@@ -501,7 +522,6 @@ html.dark .mathcoda-footer-logo-link picture.logo-dark,
   max-width: 220px !important;
   width: auto !important;
   object-fit: contain !important;
-  display: block !important;
   margin: 0 !important;
 }
 

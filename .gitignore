@@ -1,0 +1,14 @@
+# Build outputs
+_build/
+site_exports/
+exports/
+
+# Virtual environment & caches
+.venv/
+__pycache__/
+*.pyc
+.ruff_cache/
+
+# OS files
+.DS_Store
+Thumbs.db

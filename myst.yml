@@ -1,0 +1,62 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: mathcoda-workshop-2027
+  title: MATHCODA Workshop 2027
+  description: Annual Workshop of the Doctoral Training Unit on Mathematical and Computational Data Analytics
+  venue:
+    title: University of Luxembourg
+    url: https://www.uni.lu
+  date: 2027-01-25
+  keywords:
+    - MATHCODA
+    - Data Analytics
+    - Statistics
+    - Econometrics
+    - Probability
+    - Scientific Computing
+    - Uncertainty Quantification
+    - University of Luxembourg
+  authors:
+    - name: MATHCODA Organizing Committee
+      affiliations:
+        - University of Luxembourg
+  github: https://github.com/a-latyshev/MATHCODA-workshop-2027
+  license:
+    content: CC-BY-4.0
+  open_access: true
+
+  toc:
+    - file: index.md
+      title: Overview
+    - file: schedule.md
+      title: Program & Schedule
+    - file: speakers.md
+      title: Speakers
+    - file: abstracts/index.md
+      title: Abstracts
+      children:
+        - file: abstracts/template.md
+          title: Submission Template
+    - file: practical-info.md
+      title: Practical Information
+    - file: social.md
+      title: Social Program
+    - file: registration.md
+      title: Registration
+
+site:
+  template: book-theme
+  options:
+    favicon: assets/favicon.ico
+    logo: assets/logo_mathcoda.png
+    style: custom.css
+  parts:
+    footer: footer.md
+  actions:
+    - title: University of Luxembourg
+      url: https://www.uni.lu
+    - title: Department of Mathematics
+      url: https://math.uni.lu
+    - title: Contact
+      url: mailto:andrey.latyshev@uni.lu

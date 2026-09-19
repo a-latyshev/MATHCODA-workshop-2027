@@ -17,9 +17,14 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+env:
+  BASE_URL: /${{ github.event.repository.name }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      BASE_URL: /${{ github.event.repository.name }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4

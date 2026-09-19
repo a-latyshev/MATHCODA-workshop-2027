@@ -5,7 +5,7 @@ description: Annual Workshop on Mathematical and Computational Data Analytics at
 
 <div class="hero-box">
   <h1>MATHCODA Workshop 2027</h1>
-  <p style="font-size: 1.25rem; opacity: 0.95; margin-bottom: 24px;">
+  <p class="hero-subtitle">
     Annual Workshop of the Doctoral Training Unit on Mathematical and Computational Data Analytics
   </p>
   <div class="hero-meta">

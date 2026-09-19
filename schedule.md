@@ -5,7 +5,7 @@ description: Full scientific timetable and daily program for MATHCODA Workshop 2
 
 # Scientific Program & Schedule
 
-All presentations and sessions take place in **Room MSA 3370** (3rd Floor), Maison du Savoir, Campus Belval, University of Luxembourg, unless otherwise noted.
+All presentations and sessions take place in **Room MSA 3370** (3rd Floor), Maison du Savoir, Campus Belval, University of Luxembourg.
 
 :::{tip}
 **Presentation Guidelines**
@@ -17,16 +17,16 @@ All presentations and sessions take place in **Room MSA 3370** (3rd Floor), Mais
 
 | Time | Monday, 25 Jan (Statistics) | Tuesday, 26 Jan (Economics/Stochastics) | Wednesday, 27 Jan (Probability) | Thursday, 28 Jan (Engineering UQ) |
 | :--- | :--- | :--- | :--- | :--- |
-| **08:00–08:45** | Registration & Welcome Coffee | Morning Welcome | Morning Welcome | Morning Welcome |
-| **08:45–09:00** | Opening Ceremony | Announcements | Announcements | Announcements |
-| **09:00–09:45** | **Keynote**: Prof. John Kent | **Keynote**: Prof. Victor Chernozhukov | **Keynote**: TBA | **Keynote**: TBA |
+| **08:00–08:45** | Registration & Welcome Coffee | - | - | - |
+| **08:45–09:00** | **Opening Ceremony** | - | - | - |
+| **09:00–09:45** | Keynote session | Keynote session | Keynote session | Keynote session |
 | **09:45–10:15** | *Coffee Break* | *Coffee Break* | *Coffee Break* | *Coffee Break* |
-| **10:15–11:45** | Session 2 (3 Talks) | Session 2 (3 Talks) | Session 2 (3 Talks) | Session 2 (3 Talks) |
+| **10:15–11:45** | Session 2 | Session 2 | Session 2 | Session 2 |
 | **11:45–13:30** | *Lunch Break* | *Lunch Break* | *Lunch Break* | *Lunch Break* |
-| **13:30–14:30** | Session 3 (2 Talks) | Session 3 (2 Talks) | Session 3 (2 Talks) | Session 3 (2 Talks) |
+| **13:30–14:30** | Session 3 | Session 3 | Session 3 | Session 3 |
 | **14:30–15:00** | *Coffee Break* | *Coffee Break* | *Coffee Break* | *Coffee Break* |
-| **15:00–15:30** | — | Session 4 (1 Talk) | Session 4 (1 Talk) | Closing Ceremony |
-| **Afternoon/Eve** | 🏛️ **Luxembourg City Tour** | 🏭 **Belval Blast Furnaces** | 🍽️ **Conference Dinner** | Departures |
+| **15:00–15:30** | **Free time** | Session 4 | Session 4 | **Closing Ceremony** |
+| **Evening** | 🏛️ **Luxembourg City Tour** | 🏭 **Belval Blast Furnaces** | 🍽️ **Conference Dinner** | Departures |
 
 ---
 

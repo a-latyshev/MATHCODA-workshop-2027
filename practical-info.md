@@ -5,58 +5,56 @@ description: Venue, travel directions, accommodation, and attendee guide for MAT
 
 # Practical Information
 
-Everything you need to plan your arrival, stay, and conference experience at the University of Luxembourg.
+Everything you need to plan your arrival, stay, and workshop experience at the University of Luxembourg.
 
 ---
 
-## Conference Venue
+## Workshop Venue
 
 The workshop will be held in the iconic **Maison du Savoir (MSA)** on **Campus Belval**, the main research hub of the University of Luxembourg.
 
 * **Room**: **MSA 3370** (3rd Floor)
 * **Building**: Maison du Savoir (MSA)
 * **Address**:  
-  University of Luxembourg — Campus Belval  
+  [University of Luxembourg — Campus Belval](https://maps.app.goo.gl/NxCNyCJVaXuqY1mx7)  
   2, avenue de l'Université  
   L-4365 Esch-sur-Alzette  
-  Grand Duchy of Luxembourg
+  Luxembourg
 
 ### Campus Belval Map
 
 <div style="width: 100%; height: 380px; border-radius: 12px; overflow: hidden; margin: 20px 0; border: 1px solid #cbd5e1;">
-  <iframe 
-    width="100%" 
-    height="100%" 
-    frameborder="0" 
-    scrolling="no" 
-    marginheight="0" 
-    marginwidth="0" 
-    src="https://www.openstreetmap.org/export/embed.html?bbox=5.9410%2C49.4990%2C5.9550%2C49.5075&amp;layer=mapnik&amp;marker=49.5038%2C5.9482" 
-    style="border: 0;">
-  </iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1100.4349810151316!2d5.950151899276352!3d49.50402709401765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47954f0356c15d87%3A0xd5ce92bbd6c6f20a!2sUniversity%20of%20Luxembourg!5e0!3m2!1sen!2slu!4v1789824734006!5m2!1sen!2slu" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
 
-<small><a href="https://www.openstreetmap.org/?mlat=49.5038&amp;mlon=5.9482#map=16/49.5038/5.9482" target="_blank" rel="noopener noreferrer">View Larger Map on OpenStreetMap</a></small>
+<small><a href="https://maps.app.goo.gl/NxCNyCJVaXuqY1mx7" target="_blank" rel="noopener noreferrer">View on Google Maps</a></small>
 
 ---
 
-## Travel to Belval
+## Travel to Luxembourg
 
-:::{important}
-**Free Public Transport in Luxembourg**  
+:::{tip}
+**Free Public Transport & Travel Apps in Luxembourg**  
 Public transportation (all trains in 2nd class, trams, and regional buses) is **completely free of charge** across the entire territory of Luxembourg! You do **not** need to buy tickets or validate passes. Simply step on board!
+
+* 📱 **Trip Planning & Live Timetables**: We strongly recommend installing the official **[CFL mobile app](https://www.cfl.lu/fr-fr/app/cflgo)** (or [mobiliteit.lu](https://www.mobiliteit.lu)) on your smartphone for real-time train schedules, platform notifications, bus itineraries, and seamless door-to-door navigation in Luxembourg.
 :::
 
 ### By Air (Luxembourg Airport - LUX)
-* Luxembourg Airport (*Findel*) is connected to Luxembourg City by frequent public buses:
-  * Take **Bus 29** directly to **Luxembourg Gare Centrale** (approx. 15–20 minutes).
+* Luxembourg Airport (*Findel*) is connected to Luxembourg City by frequent
+  public buses:
+  * Take **Bus 29** directly to **Luxembourg Gare Centrale** (approx. 15–20
+    minutes).
   * Alternatively, take the new tram line directly into the city center.
-* From **Luxembourg Gare Centrale**, take the direct train to **Belval-Université**.
+* From **Luxembourg Gare Centrale**, take the direct train to
+  **Belval-Université**.
 
 ### By Train
-* Take the regional train from **Luxembourg Gare Centrale** to **Belval-Université** station (line RB or RE).
+* Take the regional train from **Luxembourg Gare Centrale** to
+  **Belval-Université** station.
 * Trains depart every 15 minutes and the journey takes approximately 30 minutes.
-* The station **Belval-Université** is directly adjacent to Campus Belval and Maison du Savoir (a 3-minute walk).
+* The station **Belval-Université** is directly adjacent to Campus Belval and
+  Maison du Savoir (a 3-minute walk).
 
 ---
 

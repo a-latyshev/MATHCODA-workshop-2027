@@ -456,8 +456,10 @@ html.dark footer.article.footer,
 picture.logo-light,
 picture.logo-light img,
 .mathcoda-footer-logo-link picture.logo-light,
-.mathcoda-footer-logo-link picture.logo-light img {
+.mathcoda-footer-logo-link picture.logo-light img,
+img.logo-light {
   display: inline-flex !important;
+  visibility: visible !important;
 }
 
 .logo-dark,
@@ -492,8 +494,11 @@ html.dark .logo-dark,
 html.dark picture.logo-dark,
 .dark picture.logo-dark,
 html.dark .mathcoda-footer-logo-link picture.logo-dark,
-.dark .mathcoda-footer-logo-link picture.logo-dark {
+.dark .mathcoda-footer-logo-link picture.logo-dark,
+html.dark img.logo-dark,
+.dark img.logo-dark {
   display: inline-flex !important;
+  visibility: visible !important;
 }
 
 html.dark picture.logo-dark img,
@@ -502,6 +507,33 @@ html.dark .mathcoda-footer-logo-link picture.logo-dark img,
 .dark .mathcoda-footer-logo-link picture.logo-dark img {
   display: block !important;
   visibility: visible !important;
+}
+
+/* System Dark Mode fallback */
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) .logo-light,
+  :root:not(.light) picture.logo-light,
+  :root:not(.light) picture.logo-light img,
+  :root:not(.light) .mathcoda-footer-logo-link picture.logo-light,
+  :root:not(.light) .mathcoda-footer-logo-link picture.logo-light img,
+  :root:not(.light) img.logo-light {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  :root:not(.light) .logo-dark,
+  :root:not(.light) picture.logo-dark,
+  :root:not(.light) .mathcoda-footer-logo-link picture.logo-dark,
+  :root:not(.light) img.logo-dark {
+    display: inline-flex !important;
+    visibility: visible !important;
+  }
+
+  :root:not(.light) picture.logo-dark img,
+  :root:not(.light) .mathcoda-footer-logo-link picture.logo-dark img {
+    display: block !important;
+    visibility: visible !important;
+  }
 }
 
 /* Base Logo Sizing in Footer */

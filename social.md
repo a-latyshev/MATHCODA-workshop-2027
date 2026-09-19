@@ -9,7 +9,7 @@ Networking and informal discussions are central to the MATHCODA spirit. We have 
 
 ---
 
-::::{grid} 1 1 3 3
+::::{grid} 1
 
 :::{grid-item-card} 🏛️ Luxembourg City Tour
 **Monday, 25 January 2027 (15:00–18:00)**  

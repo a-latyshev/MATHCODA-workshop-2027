@@ -72,8 +72,20 @@ body, html {
 }
 
 /* --------------------------------------------------------------------------
-   Hero Section: Premium Academic Visuals (Adaptive Light & Dark)
+   Frontmatter & Hero Section Styling
    -------------------------------------------------------------------------- */
+/* Hide default auto-generated frontmatter block (title, venue, metadata badges) when hero-box is present or on the homepage */
+article:has(.hero-box) .myst-fm-block,
+article:has(.hero-box) #skip-to-frontmatter,
+.content:has(.hero-box) > .myst-fm-block {
+  display: none !important;
+}
+
+/* Ensure nice top spacing for the hero section when frontmatter is hidden */
+article:has(.hero-box) .hero-box {
+  margin-top: 2rem !important;
+}
+
 .hero-box {
   position: relative;
   border-radius: 20px;

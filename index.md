@@ -1,7 +1,7 @@
 <div class="hero-box">
   <h1>MATHCODA Workshop 2027</h1>
   <p class="hero-subtitle">
-    Annual Workshop of the Doctoral Training Unit MATHCODA at the University of Luxembourg.
+    Workshop of the Doctoral Training Unit MATHCODA at the University of Luxembourg.
   </p>
   <div class="hero-meta">
     <div class="hero-pill">

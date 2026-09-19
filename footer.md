@@ -1,6 +1,6 @@
 <div class="mathcoda-footer-wrapper">
   <div class="mathcoda-footer-logos">
-    <a href="https://www.uni.lu" target="_blank" rel="noopener noreferrer" class="mathcoda-footer-logo-link" title="University of Luxembourg">
+    <a href="https://www.uni.lu" target="_blank" rel="noopener noreferrer" class="mathcoda-footer-logo-link uni-link" title="University of Luxembourg">
       <img src="assets/uni_logo_light.png" alt="University of Luxembourg" class="mathcoda-footer-logo uni-logo logo-light" />
       <img src="assets/uni_logo_dark.png" alt="University of Luxembourg" class="mathcoda-footer-logo uni-logo logo-dark" />
     </a>

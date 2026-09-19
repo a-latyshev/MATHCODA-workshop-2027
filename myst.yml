@@ -49,7 +49,8 @@ site:
   template: book-theme
   options:
     favicon: assets/favicon.ico
-    logo: assets/logo_mathcoda.png
+    logo: assets/mathcoda_logo_light.png
+    logo_dark: assets/mathcoda_logo_dark.png
     style: custom.css
   parts:
     footer: footer.md

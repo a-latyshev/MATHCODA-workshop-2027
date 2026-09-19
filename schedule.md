@@ -37,16 +37,16 @@ Use the tabs below to view full session details, talk titles, and speaker assign
 ````{tab-set}
 
 ```{tab-item} Day 1: Monday, 25 Jan
-### Day 1: Statistical Inference and Modelling
-**Date**: Monday, 25 January 2027  
-**Session Lead / Chair**: Sophia (University of Luxembourg)  
-**Location**: Room MSA 3370
+**Day 1: Statistical Inference and Modelling**  
+*Date*: Monday, 25 January 2027  
+*Session Lead / Chair*: Sophia (University of Luxembourg)  
+*Location*: Room MSA 3370
 
 | Time | Event / Presentation | Speaker / Details |
 | :--- | :--- | :--- |
 | **08:00 – 08:45** | **Registration & Welcome Coffee** | Badge pickup, tea, coffee, and pastries |
 | **08:45 – 09:00** | **Opening Ceremony** | Welcome remarks by Prof. Giovanni Peccati |
-| **09:00 – 09:45** | **Keynote Lecture** <span class="badge-keynote">Keynote</span> | **Prof. John Kent** (*University of Leeds*)<br>_Title to be announced_ |
+| **09:00 – 09:45** | **Keynote Lecture** | **Prof. John Kent** (*University of Leeds*)<br>_Title to be announced_ |
 | **09:45 – 10:15** | *Morning Coffee Break* | Refreshments & networking |
 | **10:15 – 10:45** | Invited Talk 1 | **Prof. Johan Segers** (*KU Leuven*)<br>_Title to be announced_ |
 | **10:45 – 11:15** | Invited Talk 2 | **Dr. Andrea Meilan** (*Universidad Carlos III de Madrid*)<br>_Title to be announced_ |
@@ -59,15 +59,15 @@ Use the tabs below to view full session details, talk titles, and speaker assign
 ```
 
 ```{tab-item} Day 2: Tuesday, 26 Jan
-### Day 2: Economics and Stochastic Processes
-**Date**: Tuesday, 26 January 2027  
-**Session Leads / Chairs**: Francisco & Ali (University of Luxembourg)  
-**Location**: Room MSA 3370
+**Day 2: Economics and Stochastic Processes**  
+*Date*: Tuesday, 26 January 2027  
+*Session Leads / Chairs*: Francisco & Ali (University of Luxembourg)  
+*Location*: Room MSA 3370
 
 | Time | Event / Presentation | Speaker / Details |
 | :--- | :--- | :--- |
 | **08:30 – 09:00** | **Morning Welcome** | Coffee & tea |
-| **09:00 – 09:45** | **Keynote Lecture** <span class="badge-keynote">Keynote</span> | **Prof. Victor Chernozhukov** (*MIT*)<br>_Title to be announced_ |
+| **09:00 – 09:45** | **Keynote Lecture** | **Prof. Victor Chernozhukov** (*MIT*)<br>_Title to be announced_ |
 | **09:45 – 10:15** | *Morning Coffee Break* | Refreshments & discussions |
 | **10:15 – 10:45** | Invited Talk 1 | **Prof. Chiara Amorino** (*Universitat Pompeu Fabra*)<br>_Title to be announced_ |
 | **10:45 – 11:15** | Invited Talk 2 | **Prof. Marc Henry** (*Penn State University*)<br>_Title to be announced_ |
@@ -81,15 +81,15 @@ Use the tabs below to view full session details, talk titles, and speaker assign
 ```
 
 ```{tab-item} Day 3: Wednesday, 27 Jan
-### Day 3: Probability
-**Date**: Wednesday, 27 January 2027  
-**Session Leads / Chairs**: Luis & Lucia (University of Luxembourg)  
-**Location**: Room MSA 3370
+**Day 3: Probability**  
+*Date*: Wednesday, 27 January 2027  
+*Session Leads / Chairs*: Luis & Lucia (University of Luxembourg)  
+*Location*: Room MSA 3370
 
 | Time | Event / Presentation | Speaker / Details |
 | :--- | :--- | :--- |
 | **08:30 – 09:00** | **Morning Welcome** | Coffee & tea |
-| **09:00 – 09:45** | **Keynote Lecture** <span class="badge-keynote">Keynote</span> | *Keynote Speaker to be announced*<br>_Title to be announced_ |
+| **09:00 – 09:45** | **Keynote Lecture** | *Keynote Speaker to be announced*<br>_Title to be announced_ |
 | **09:45 – 10:15** | *Morning Coffee Break* | Refreshments & discussions |
 | **10:15 – 10:45** | Invited Talk 1 | **Dr. Torben Sell** (*University of Edinburgh*)<br>_Title to be announced_ |
 | **10:45 – 11:15** | Invited Talk 2 | **Prof. Mihai Nica** (*University of Guelph*)<br>_Title to be announced_ |
@@ -103,15 +103,15 @@ Use the tabs below to view full session details, talk titles, and speaker assign
 ```
 
 ```{tab-item} Day 4: Thursday, 28 Jan
-### Day 4: Uncertainty Quantification in Engineering Applications
-**Date**: Thursday, 28 January 2027  
-**Session Lead / Chair**: Andrey Latyshev (University of Luxembourg)  
-**Location**: Room MSA 3370
+**Day 4: Uncertainty Quantification in Engineering Applications**  
+*Date*: Thursday, 28 January 2027  
+*Session Lead / Chair*: Andrey Latyshev (University of Luxembourg)  
+*Location*: Room MSA 3370
 
 | Time | Event / Presentation | Speaker / Details |
 | :--- | :--- | :--- |
 | **08:30 – 09:00** | **Morning Welcome** | Coffee & tea |
-| **09:00 – 09:45** | **Keynote Lecture** <span class="badge-keynote">Keynote</span> | *Keynote Speaker to be announced*<br>_Title to be announced_ |
+| **09:00 – 09:45** | **Keynote Lecture** | *Keynote Speaker to be announced*<br>_Title to be announced_ |
 | **09:45 – 10:15** | *Morning Coffee Break* | Refreshments & discussions |
 | **10:15 – 10:45** | Technical Lecture 1 | *Speaker to be confirmed*<br>_Surrogate modeling and shifted boundary methods_ |
 | **10:45 – 11:15** | Technical Lecture 2 | *Speaker to be confirmed*<br>_Physics-informed machine learning for PDEs_ |

@@ -38,46 +38,42 @@ designed to foster interdisciplinary collaboration.
 
 The scientific programme is structured into four focused thematic days:
 
-::::{grid} 1 2 2 2
+::::{grid} 1
 
 :::{grid-item-card} Day 1: Statistical Inference & Modelling
 **Monday, 25 January 2027**  
-*Session Lead: Sophia*
+*Session Coordinator: Sophia Loizidou*
 
-Focusing on modern developments in high-dimensional statistics, non-parametric inference, directional data, and statistical learning.
+Focusing on modern developments in high-dimensional statistics, non-parametric
+inference, directional data, and statistical learning.
 
-* **Keynote Speaker**: **Prof. John Kent** (University of Leeds)
-* **Invited Speakers**: Johan Segers, Andrea Meilan, Siegfried Hörmann, Yvik Swan
 :::
 
 :::{grid-item-card} Day 2: Economics & Stochastic Processes
 **Tuesday, 26 January 2027**  
-*Session Leads: Francisco & Ali*
+*Session Coordinators: Francisco Pina Monzo & Ali Atabaigialami*
 
-Exploring econometrics, causal inference, machine learning in financial economics, and stochastic calculus for complex markets.
+Exploring econometrics, causal inference, machine learning in financial
+economics, and stochastic calculus for complex markets.
 
-* **Keynote Speaker**: **Prof. Victor Chernozhukov** (MIT)
-* **Invited Speakers**: Chiara Amorino, Marc Henry, Isaiah Andrews, Mathieu Rosenbaum
 :::
 
 :::{grid-item-card} Day 3: Probability & Random Structures
 **Wednesday, 27 January 2027**  
-*Session Leads: Luis & Lucia*
+*Session Coordinators: Luis Maia & Lucia Celli*
 
-Covering Malliavin calculus, Stein's method, random matrices, interacting particle systems, and mathematical foundations of deep learning.
+Covering Malliavin calculus, Stein's method, random matrices, interacting
+particle systems, and mathematical foundations of deep learning.
 
-* **Keynote Speaker**: *To Be Announced*
-* **Invited Speakers**: Torben Sell, Mihai Nica, Stefano Favaro, Lénaïc Chizat
 :::
 
 :::{grid-item-card} Day 4: Uncertainty Quantification in Engineering
 **Thursday, 28 January 2027**  
-*Session Lead: Andrey*
+*Session Coordinator: Andrey Latyshev*
 
-Addressing surrogate modeling, physics-informed machine learning, finite element methods on complex geometries, and computational reliability.
+Addressing application of uncertainty quantification methods in computational
+mechanics. 
 
-* **Keynote Speaker**: *To Be Announced*
-* **Sessions**: Invited technical lectures, doctoral spotlight talks, and closing panel.
 :::
 
 ::::
@@ -86,10 +82,12 @@ Addressing surrogate modeling, physics-informed machine learning, finite element
 
 ## Organizing Committee
 
-The workshop is organized by doctoral candidates and faculty members from the MATHCODA Doctoral Training Unit and the Department of Mathematics at the University of Luxembourg:
+The workshop is organized by doctoral candidates and faculty members from the
+MATHCODA Doctoral Training Unit and the Department of Mathematics at the
+University of Luxembourg:
 
 Doctoral researchers:
-* [**Andrey Latyshev**](https://www.linkedin.com/in/andrey-latyshev/) — *UQ in Engineering Track Coordinator*
+* [**Andrey Latyshev**](https://www.linkedin.com/in/andrey-latyshev/) — *Uncertainty Quantification in Engineering Track Coordinator*
 * **Sophia Loizidou** — *Statistics Track Coordinator*
 * **Francisco Pina Monzo** & **Ali Atabaigialami** — *Economics & Stochastics Track Coordinators*
 * **Luis Maia** & **Lucia Celli**  — *Probability Track Coordinator*
@@ -98,6 +96,7 @@ PIs:
 * **Assoc. Prof Christophe LEY**
 * **Jack S. Hale** — *Senior Advisor & Scientific Coordination*
 * **Prof. Giovanni Peccati** — *MATHCODA Coordinator & Head of Department*
+* etc
 
 ## Contact information
 

@@ -15,7 +15,7 @@ The MATHCODA Workshop 2027 convenes international experts across statistics, eco
 
 :::{grid-item-card} Prof. John Kent
 (prof-john-kent)=
-<span class="badge-keynote">Keynote Speaker</span> <span class="badge-confirmed">Confirmed</span>  
+<span class="badge-keynote">Keynote Speaker</span>  
 **University of Leeds, United Kingdom**
 
 * **Track**: Day 1 — Statistical Inference and Modelling
@@ -26,7 +26,7 @@ The MATHCODA Workshop 2027 convenes international experts across statistics, eco
 
 :::{grid-item-card} Prof. Victor Chernozhukov
 (prof-victor-chernozhukov)=
-<span class="badge-keynote">Keynote Speaker</span> <span class="badge-confirmed">Confirmed</span>  
+<span class="badge-keynote">Keynote Speaker</span>  
 **Massachusetts Institute of Technology (MIT), USA**
 
 * **Track**: Day 2 — Economics and Stochastic Processes
@@ -64,28 +64,28 @@ The MATHCODA Workshop 2027 convenes international experts across statistics, eco
 ::::{grid} 1 2 2 2
 
 :::{grid-item-card} Prof. Johan Segers
-<span class="badge-invited">Invited Speaker</span> <span class="badge-confirmed">Confirmed</span>  
+<span class="badge-invited">Invited Speaker</span>  
 **KU Leuven, Belgium**  
 *Interests*: Extreme value theory, copulas, non-parametric statistics, empirical processes.  
 [Abstract & Details](abstracts/index.md#johan-segers)
 :::
 
 :::{grid-item-card} Dr. Andrea Meilan
-<span class="badge-invited">Invited Speaker</span> <span class="badge-confirmed">Confirmed</span>  
+<span class="badge-invited">Invited Speaker</span>  
 **Universidad Carlos III de Madrid, Spain**  
 *Interests*: Spatial and spatio-temporal statistics, non-parametric inference, environmental modeling.  
 [Abstract & Details](abstracts/index.md#andrea-meilan)
 :::
 
 :::{grid-item-card} Prof. Siegfried Hörmann
-<span class="badge-invited">Invited Speaker</span> <span class="badge-confirmed">Confirmed</span>  
+<span class="badge-invited">Invited Speaker</span>  
 **Graz University of Technology, Austria**  
 *Interests*: Functional data analysis, time series analysis, dimension reduction techniques.  
 [Abstract & Details](abstracts/index.md#siegfried-hormann)
 :::
 
 :::{grid-item-card} Prof. Yvik Swan
-<span class="badge-invited">Invited Speaker</span> <span class="badge-confirmed">Confirmed</span>  
+<span class="badge-invited">Invited Speaker</span>  
 **Université Libre de Bruxelles (ULB), Belgium**  
 *Interests*: Stein's method, probability approximations, statistical inference, orthogonal polynomials.  
 [Abstract & Details](abstracts/index.md#yvik-swan)
@@ -100,28 +100,28 @@ The MATHCODA Workshop 2027 convenes international experts across statistics, eco
 ::::{grid} 1 2 2 2
 
 :::{grid-item-card} Prof. Chiara Amorino
-<span class="badge-invited">Invited Speaker</span> <span class="badge-confirmed">Confirmed</span>  
+<span class="badge-invited">Invited Speaker</span>  
 **Universitat Pompeu Fabra, Spain**  
 *Interests*: Inference for stochastic differential equations, jump processes, high-frequency data.  
 [Abstract & Details](abstracts/index.md#chiara-amorino)
 :::
 
 :::{grid-item-card} Prof. Marc Henry
-<span class="badge-invited">Invited Speaker</span> <span class="badge-confirmed">Confirmed</span>  
+<span class="badge-invited">Invited Speaker</span>  
 **Penn State University, USA**  
 *Interests*: Econometric theory, partial identification, optimal transport, empirical finance.  
 [Abstract & Details](abstracts/index.md#marc-henry)
 :::
 
 :::{grid-item-card} Prof. Isaiah Andrews
-<span class="badge-invited">Invited Speaker</span> <span class="badge-confirmed">Confirmed</span>  
+<span class="badge-invited">Invited Speaker</span>  
 **Massachusetts Institute of Technology (MIT), USA**  
 *Interests*: Econometric theory, identification robust inference, empirical Bayes methods.  
 [Abstract & Details](abstracts/index.md#isaiah-andrews)
 :::
 
 :::{grid-item-card} Prof. Mathieu Rosenbaum
-<span class="badge-invited">Invited Speaker</span> <span class="badge-confirmed">Confirmed</span>  
+<span class="badge-invited">Invited Speaker</span>  
 **École Polytechnique, France**  
 *Interests*: Quantitative finance, high-frequency trading, rough volatility models, market microstructure.  
 [Abstract & Details](abstracts/index.md#mathieu-rosenbaum)
@@ -136,28 +136,28 @@ The MATHCODA Workshop 2027 convenes international experts across statistics, eco
 ::::{grid} 1 2 2 2
 
 :::{grid-item-card} Dr. Torben Sell
-<span class="badge-invited">Invited Speaker</span> <span class="badge-confirmed">Confirmed</span>  
+<span class="badge-invited">Invited Speaker</span>  
 **University of Edinburgh, United Kingdom**  
 *Interests*: Stochastic analysis, interacting particle systems, sampling algorithms.  
 [Abstract & Details](abstracts/index.md#torben-sell)
 :::
 
 :::{grid-item-card} Prof. Mihai Nica
-<span class="badge-invited">Invited Speaker</span> <span class="badge-confirmed">Confirmed</span>  
+<span class="badge-invited">Invited Speaker</span>  
 **University of Guelph, Canada**  
 *Interests*: Random matrix theory, free probability, neural network asymptotics, KPZ universality.  
 [Abstract & Details](abstracts/index.md#mihai-nica)
 :::
 
 :::{grid-item-card} Prof. Stefano Favaro
-<span class="badge-invited">Invited Speaker</span> <span class="badge-confirmed">Confirmed</span>  
+<span class="badge-invited">Invited Speaker</span>  
 **University of Torino, Italy**  
 *Interests*: Bayesian nonparametrics, combinatorial stochastic processes, species sampling models.  
 [Abstract & Details](abstracts/index.md#stefano-favaro)
 :::
 
 :::{grid-item-card} Prof. Lénaïc Chizat
-<span class="badge-invited">Invited Speaker</span> <span class="badge-confirmed">Confirmed</span>  
+<span class="badge-invited">Invited Speaker</span>  
 **École Polytechnique Fédérale de Lausanne (EPFL), Switzerland**  
 *Interests*: Optimization, machine learning theory, mean-field limits, gradient flows.  
 [Abstract & Details](abstracts/index.md#lenaic-chizat)

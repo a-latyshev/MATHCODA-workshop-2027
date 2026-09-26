@@ -13,7 +13,7 @@ Everything you need to plan your arrival, stay, and workshop experience at the U
 
 The workshop will be held in the iconic **Maison du Savoir (MSA)** on **Campus Belval**, the main research hub of the University of Luxembourg.
 
-* **Room**: **MSA 3370** (3rd Floor)
+* **Room**: **MSA 3.370** (3rd Floor)
 * **Building**: Maison du Savoir (MSA)
 * **Address**:  
   [University of Luxembourg — Campus Belval](https://maps.app.goo.gl/NxCNyCJVaXuqY1mx7)  
@@ -33,19 +33,25 @@ The workshop will be held in the iconic **Maison du Savoir (MSA)** on **Campus B
 
 ## Travel to Luxembourg
 
-:::{tip}
 **Free Public Transport & Travel Apps in Luxembourg**  
-Public transportation (all trains in 2nd class, trams, and regional buses) is **completely free of charge** across the entire territory of Luxembourg! You do **not** need to buy tickets or validate passes. Simply step on board!
+Public transportation (all trains in 2nd class, trams, and regional buses) is
+**completely free of charge** across the entire territory of Luxembourg! You do
+**not** need to buy tickets or validate passes. Simply step on board!
 
-* 📱 **Trip Planning & Live Timetables**: We strongly recommend installing the official **[CFL mobile app](https://www.cfl.lu/fr-fr/app/cflgo)** (or [mobiliteit.lu](https://www.mobiliteit.lu)) on your smartphone for real-time train schedules, platform notifications, bus itineraries, and seamless door-to-door navigation in Luxembourg.
+:::{tip}
+📱 **Trip Planning & Live Timetables**: We strongly recommend installing the
+official **[CFL mobile app](https://www.cfl.lu/fr-fr/app/cflgo)** or
+**[Citymapper](https://citymapper.com/luxembourg)** on your smartphone for real-time
+train schedules, platform notifications, bus itineraries, and seamless
+door-to-door navigation in Luxembourg.
 :::
 
+---
+
 ### By Air (Luxembourg Airport - LUX)
-* Luxembourg Airport (*Findel*) is connected to Luxembourg City by frequent
-  public buses:
-  * Take **Bus 29** directly to **Luxembourg Gare Centrale** (approx. 15–20
-    minutes).
-  * Alternatively, take the new tram line directly into the city center.
+* Luxembourg Airport (*Findel*) is well connected to Luxembourg City:
+  * Take the **Tram (Line T1)** directly from the airport to **Luxembourg Gare Centrale** and the city center.
+  * Alternatively, take **Bus 29** directly to **Luxembourg Gare Centrale** (approx. 15–20 minutes).
 * From **Luxembourg Gare Centrale**, take the direct train to
   **Belval-Université**.
 
@@ -56,46 +62,31 @@ Public transportation (all trains in 2nd class, trams, and regional buses) is **
 * The station **Belval-Université** is directly adjacent to Campus Belval and
   Maison du Savoir (a 3-minute walk).
 
----
+
 
 ## Accommodation
 
-We recommend booking accommodation either directly on Campus Belval (for ultimate convenience) or in Luxembourg City (for evening dining and sightseeing).
+We recommend booking accommodation directly on Campus Belval for maximum convenience within walking distance of the venue:
 
 ::::{grid} 1 1 2 2
 
 :::{grid-item-card} ibis Esch Belval
-**Location**: Avenue du Rock'n'Roll, Esch-sur-Alzette  
-*Distance to Venue*: 2 minutes walk to MSA  
-*Highlights*: Located right in the heart of Belval Plaza, next to restaurants, shops, and the train station.  
-[Website & Booking](https://all.accor.com)
+**Location**: 12, Avenue du Rock'n'Roll, Esch-sur-Alzette  
+*Distance to Venue*: 2-minute walk to Maison du Savoir (MSA)  
+*Highlights*: Located in the heart of Belval Plaza, steps from restaurants, shops, and the Belval-Université train station.  
+[View on Google Maps](https://maps.app.goo.gl/wS32bKq1G3GgH1Fq8)
 :::
 
 :::{grid-item-card} Residhome Luxembourg Belval
 **Location**: 3, Boulevard du Jazz, Esch-sur-Alzette  
-*Distance to Venue*: 5 minutes walk to MSA  
-*Highlights*: Modern aparthotel studios equipped with kitchenettes, ideal for longer stays.  
-[Website & Booking](https://www.residhome.com)
-:::
-
-:::{grid-item-card} Hotels in Luxembourg City
-**Location**: Luxembourg Gare Centrale or Centre-Ville  
-*Distance to Venue*: 30 minutes by direct train  
-*Highlights*: Ideal if you wish to explore Luxembourg City’s historic old town and nightlife in the evenings. Thanks to free trains, commuting is seamless.
-:::
-
-:::{grid-item-card} Youth Hostel Esch-sur-Alzette
-**Location**: 17, Boulevard John F. Kennedy, Esch-sur-Alzette  
-*Distance to Venue*: 10 minutes by bus or train  
-*Highlights*: Budget-friendly option for doctoral candidates and students.
+*Distance to Venue*: 5-minute walk to Maison du Savoir (MSA)  
+*Highlights*: Modern aparthotel studios equipped with kitchenettes, ideal for comfort and flexibility.  
+[View on Google Maps](https://maps.app.goo.gl/95aZ5r7d7B5UfD8v7)
 :::
 
 ::::
 
----
-
-## Wi-Fi & Facilities
+## Wi-Fi & Catering
 
 * **eduroam**: Fast, secure Wi-Fi is available across all University of Luxembourg campus buildings. Simply log in using your home institution's credentials.
-* **UniLu-Guest**: Free public Wi-Fi is also available on campus for visitors without eduroam.
-* **Dining & Coffee**: Morning and afternoon coffee breaks and networking lunches are included for registered conference participants.
+* **Catering**: Coffee breaks and networking lunches are provided for all participants.

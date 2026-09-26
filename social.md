@@ -13,7 +13,7 @@ Networking and informal discussions are central to the MATHCODA spirit. We have 
 
 :::{grid-item-card} 🏛️ Luxembourg City Tour
 **Monday, 25 January 2027 (15:00–18:00)**  
-*Meeting Point*: Belval-Université Station / Central Station
+*Meeting Point*: [Belval-Université Station](https://maps.app.goo.gl/eWabziSqMn6uJkVCA)
 
 A 2 to 3 hour guided historical walk through Luxembourg City's UNESCO World Heritage old quarters and fortifications:
 * **Chemin de la Corniche**: Known as "Europe's most beautiful balcony", offering panoramic vistas over the Alzette valley.
@@ -23,7 +23,7 @@ A 2 to 3 hour guided historical walk through Luxembourg City's UNESCO World Heri
 
 :::{grid-item-card} 🏭 Belval Blast Furnaces
 **Tuesday, 26 January 2027 (15:45–18:00)**  
-*Meeting Point*: Base of Blast Furnace A (Maison du Savoir)
+*Meeting Point*: [Les hauts fourneaux de Belval](https://maps.app.goo.gl/dxkQPi7zzmQdKSi29)
 
 An unforgettable exploration of Luxembourg's industrial soul right on Campus Belval:
 * **Hauts Fourneaux Belval**: A preserved masterpiece of modern industrial archaeology where steel was smelted until 1997.
@@ -34,7 +34,7 @@ An unforgettable exploration of Luxembourg's industrial soul right on Campus Bel
 **Wednesday, 27 January 2027 (19:00–22:30)**  
 *Venue*: To be announced
 
-The official conference banquet bringing together all speakers, doctoral candidates, and participants:
+The official conference banquet bringing together all speakers and participants:
 * Three-course dinner featuring regional specialties and international cuisine.
 * Excellent Luxembourgish wines from the Moselle valley.
 * Dietary preferences (vegetarian, vegan, allergies) will be catered for as indicated in your registration.

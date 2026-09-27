@@ -115,7 +115,7 @@ Use the tabs below to view full session details, talk titles, and speaker assign
 | **11:15 – 11:45** | **Title to be announced** | *Speaker to be confirmed* |
 | **11:45 – 13:30** | *Lunch Break* | Lunch on Belval Campus |
 | **13:30 – 14:00** | **Title to be announced** | *Speaker to be confirmed* |
-| **14:00 – 14:30** | **Influence of surface imperfections on fracture nucleation in phase-field** | **Andrey Latyshev**<br>(University of Luxembourg & Sorbonne Université)  |
+| **14:00 – 14:30** | **[Influence of surface imperfections on fracture nucleation in phase-field](abstracts/day4/latyshev-fracture-nucleation/index.md)** | **Andrey Latyshev**<br>(University of Luxembourg & Sorbonne Université)  |
 | **14:30 – 15:00** | *Coffee Break* | Refreshments |
 | **15:00 – 15:30** | **Closing Ceremony & Farewell** | Concluding remarks and workshop closure |
 ```

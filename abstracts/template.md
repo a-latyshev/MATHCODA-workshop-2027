@@ -1,37 +1,123 @@
 ---
-title: Abstract Submission Template
-description: Author template for MATHCODA Workshop 2027 presentation abstracts
+title: Abstract Submission Templates
+description: Submission templates (Plain Text and LaTeX) for MATHCODA Workshop 2027 abstracts
 ---
 
-# Abstract Submission Template
+# Abstract Submission Guidelines & Templates
 
-Speakers are invited to prepare their abstract using the template below. Abstracts can be submitted in Markdown format, LaTeX, or plain text to the organizing committee.
+Invited speakers and contributing presenters are welcome to submit their
+abstract using either **Plain Text (`.txt` / `.md`)** or **LaTeX (`.tex`)**.
 
-```markdown
----
-title: "Your Presentation Title"
-author:
-  - name: Firstname Lastname
-    affiliations:
-      - Department or Institute, University Name, Country
-    email: author@university.edu
-keywords: [keyword 1, keyword 2, keyword 3]
 ---
 
-# Your Presentation Title
+## Option 1: Plain Text Template (`.txt` / `.md` / Email)
 
-**Presenter**: Firstname Lastname (*Institution*)  
-**Session**: Day X — [Session Name]
+You can fill in the template below and email it directly. If your abstract contains mathematical expressions, you may write standard inline or display LaTeX / KaTeX formulas (e.g. `$f(x)$` or `$$\mathbb{E}[X]$$`).
 
-## Abstract
-Provide a 200–300 word summary of your presentation. You may include mathematical equations using standard LaTeX syntax:
+```text
+TITLE:
+[Your Presentation Title]
 
-$$
-\mathbb{E}[f(X)] = \int_{\Omega} f(x) \, d\mathbb{P}(x)
-$$
+AUTHORS:
+1. Firstname Lastname (Corresponding Author)
+   - Affiliation: Department of Mathematics, University of Luxembourg, Luxembourg
+   - Email: author@institution.edu
+   - ORCID: 0000-0000-0000-0000 (optional but encouraged)
 
-Highlight the core methodology, novel theoretical contributions, and numerical or computational results.
+2. Coauthor Firstname Lastname
+   - Affiliation: Institute Name, University Name, Country
+   - Email: coauthor@institution.edu
+   - ORCID: 0000-0000-0000-0000
 
-## References
-1. Author, A., & Author, B. (2026). Title of paper. *Journal of Mathematical Data Science*, 10(2), 123-145.
+KEYWORDS:
+[Keyword 1, Keyword 2, Keyword 3, Keyword 4]
+
+ABSTRACT:
+[Provide a 200–300 word summary of your presentation. You can use standard LaTeX / KaTeX formulas like $\mathbb{E}[f(X)] = \int f(x) \mathrm{d}\mathbb{P}(x)$ if needed.]
+
+BIBTEX REFERENCES (Please provide BibTeX entries for your citations):
+@article{author2026,
+  title = {Title of paper},
+  author = {Author, Firstname and Coauthor, Secondname},
+  journal = {Journal of Mathematical Data Science},
+  volume = {10},
+  number = {2},
+  pages = {123--145},
+  year = {2026},
+  doi = {10.1000/182}
+}
 ```
+
+---
+
+## Option 2: LaTeX Template (`.tex`)
+
+If you prefer preparing your abstract in LaTeX, you can use the template below. You may include standard mathematical equations (`amsmath`), figures, and citations via an accompanying `.bib` file.
+
+```latex
+\documentclass{article}
+\usepackage{amsmath,amssymb}
+\usepackage{cite}
+
+\title{Your Presentation Title}
+
+% List of authors with institutional affiliations
+\author{
+  Firstname Lastname$^{1,2,*}$, 
+  Coauthor Name$^{1}$, 
+  Another Coauthor$^{2}$
+}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\noindent
+$^{*}$ Corresponding Author: \texttt{author@institution.edu} (ORCID: 0000-0000-0000-0000)\\
+$^{1}$ \textit{Department of Mathematics, University of Luxembourg, Luxembourg}\\
+$^{2}$ \textit{Institute Name, University Name, City, Country}
+
+\vspace{1.5em}
+
+\begin{abstract}
+Provide a 200–300 word summary of your presentation. You can include standard LaTeX mathematical notation:
+
+\begin{equation}
+\mathbb{E}[f(X)] = \int_{\Omega} f(x) \, \mathrm{d}\mathbb{P}(x)
+\end{equation}
+
+Highlight the core methodology, theoretical contributions, and numerical or computational results. You can cite references using standard citation keys~\cite{author2026}.
+\end{abstract}
+
+\vspace{1em}
+\noindent\textbf{Keywords:} Keyword 1, Keyword 2, Keyword 3, Keyword 4
+
+\bibliographystyle{plain}
+\bibliography{references}
+
+\end{document}
+```
+
+### Accompanying `references.bib`
+```bibtex
+@article{author2026,
+  title = {Title of paper},
+  author = {Author, Firstname and Coauthor, Secondname},
+  journal = {Journal of Mathematical Data Science},
+  volume = {10},
+  number = {2},
+  pages = {123--145},
+  year = {2026},
+  doi = {10.1000/182}
+}
+```
+
+---
+
+## Publication & MyST Conversion Process
+
+All submitted abstracts (Plain Text and LaTeX) will be formatted by the organizing committee into interactive scientific pages powered by **[MyST](https://mystmd.org/)** and **[Jupyter Book 2](https://jupyterbook.org/)**.
+
+* **Live Example**: Check out [Latyshev. A — Influence of surface imperfections](day4/latyshev-fracture-nucleation/index.md) to see how your published abstract will appear on the workshop website.
+* Each page includes interactive author affiliation badges, ORCID links, MathJax equations, and hoverable BibTeX citations.

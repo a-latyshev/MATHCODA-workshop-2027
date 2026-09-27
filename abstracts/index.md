@@ -124,9 +124,16 @@ As noted in the organizing timeline, final titles and abstracts are currently be
 
 ---
 
-## Day 4 (Engineering UQ)
+## Day 4 (Uncertainty in Mechanics)
+
+(andrey-latyshev-overview)=
+### Influence of surface imperfections on fracture nucleation in phase-field
+**Speaker**: Andrey Latyshev (*University of Luxembourg & Sorbonne Université*)  
+**Session**: Day 4 (Thursday, 28 Jan 2027, 14:00–14:30)  
+👉 **[Read Full Abstract](day4/latyshev-fracture-nucleation/index.md)**
+
+---
 
 (day-4-engineering)=
-### Day 4 Engineering
-**Session**: Day 4, Sessions 2 & 3  
-*(Speakers and presentation titles will be announced following the scientific review.)*
+### Other Day 4 Presentations
+*(Additional speaker abstracts will be announced as they are submitted.)*

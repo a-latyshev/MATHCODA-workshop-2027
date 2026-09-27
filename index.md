@@ -79,10 +79,10 @@ Doctoral researchers:
 * **Luis Maia** & **Lucia Celli**  — *Probability Coordinator*
 
 PIs:
-* **Prof Christophe LEY**
-* **Jack S. Hale** — *Senior Advisor & Scientific Coordination*
+* **Prof. Christophe LEY**
+* **Prof. Jack S. Hale** — *Senior Advisor & Scientific Coordination*
 * **Prof. Giovanni Peccati** — *MATHCODA Coordinator & Head of Department*
-* etc
+* **Prof. Dr ???**
 
 ## Contact information
 

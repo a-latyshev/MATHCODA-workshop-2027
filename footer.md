@@ -16,8 +16,8 @@
     </a>
     <div class="mathcoda-logo-separator"></div>
     <a href="https://www.fnr.lu" target="_blank" rel="noopener noreferrer" class="mathcoda-footer-logo-link" title="Luxembourg National Research Fund (FNR)">
-      <img src="assets/fnr_logo_light.png" alt="Luxembourg National Research Fund (FNR)" class="mathcoda-footer-logo fnr-logo logo-light" />
-      <img src="assets/fnr_logo_dark.png" alt="Luxembourg National Research Fund (FNR)" class="mathcoda-footer-logo fnr-logo logo-dark" />
+      <img src="assets/fnr_logo_light.svg" alt="Luxembourg National Research Fund (FNR)" class="mathcoda-footer-logo fnr-logo logo-light" />
+      <img src="assets/fnr_logo_dark.svg" alt="Luxembourg National Research Fund (FNR)" class="mathcoda-footer-logo fnr-logo logo-dark" />
     </a>
   </div>
 

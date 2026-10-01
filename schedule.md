@@ -61,7 +61,7 @@ Use the tabs below to view full session details, talk titles, and speaker assign
 ```{tab-item} Day 2: Tuesday, 26 Jan
 **Day 2: Economics and Stochastic Processes**  
 *Date*: Tuesday, 26 January 2027  
-*Session Leads / Chairs*: Francisco Pina Monzo & Ali Atabaigialami  
+*Session Leads / Chairs*: Francisco Pina & Ali Atabaigialami  
 *Location*: Room MSA 3.370
 
 | Time | Event / Presentation | Speaker / Details |
@@ -73,7 +73,7 @@ Use the tabs below to view full session details, talk titles, and speaker assign
 | **11:15 – 11:45** | **Title to be announced** | **Prof. Isaiah Andrews**<br>(MIT) |
 | **11:45 – 13:30** | *Lunch Break* | Lunch on Belval Campus |
 | **13:30 – 14:00** | **Title to be announced** | **Prof. Mathieu Rosenbaum**<br>(École Polytechnique) |
-| **14:00 – 14:30** | **Title to be announced** | **Francisco Pina Monzo**<br>(University of Luxembourg) |
+| **14:00 – 14:30** | **Title to be announced** | **Francisco Pina**<br>(University of Luxembourg) |
 | **14:30 – 15:00** | *Coffee Break* | Refreshments |
 | **15:00 – 15:30** | **Title to be announced** | **Ali Atabaigialami**<br>(University of Luxembourg) |
 | **15:45 – 18:00** | 🏭 **Social Activity: Visit to High Blast Furnaces** | Guided architectural & industrial heritage visit of Hauts Fourneaux Belval |
@@ -82,7 +82,7 @@ Use the tabs below to view full session details, talk titles, and speaker assign
 ```{tab-item} Day 3: Wednesday, 27 Jan
 **Day 3: Probability**  
 *Date*: Wednesday, 27 January 2027  
-*Session Leads / Chairs*: Luis Maia & Lucia Celli  
+*Session Leads / Chairs*: Luís da Maia & Lucia Celli  
 *Location*: Room MSA 3.370
 
 | Time | Event / Presentation | Speaker / Details |
@@ -94,7 +94,7 @@ Use the tabs below to view full session details, talk titles, and speaker assign
 | **11:15 – 11:45** | **Title to be announced** | **Prof. Stefano Favaro**<br>(University of Torino) |
 | **11:45 – 13:30** | *Lunch Break* | Lunch on Belval Campus |
 | **13:30 – 14:00** | **Title to be announced** | **Prof. Lénaïc Chizat**<br>(EPFL) |
-| **14:00 – 14:30** | **Title to be announced** | **Luis Maia**<br>(University of Luxembourg) |
+| **14:00 – 14:30** | **Title to be announced** | **Luís da Maia**<br>(University of Luxembourg) |
 | **14:30 – 15:00** | *Coffee Break* | Refreshments |
 | **15:00 – 15:30** | **Title to be announced** | **Lucia Celli**<br>(University of Luxembourg) |
 | **19:00 – 22:30** | 🍽️ **Conference Dinner** | (Venue details TBA) |

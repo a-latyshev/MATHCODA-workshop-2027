@@ -393,6 +393,13 @@ td {
   border-bottom: 1px solid #334155 !important;
 }
 
+/* Keep timetable times on one line */
+th:first-child,
+td:first-child {
+  white-space: nowrap !important;
+  min-width: 9.5rem !important;
+}
+
 tbody tr:hover {
   background-color: #f8fafc !important;
 }

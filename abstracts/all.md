@@ -32,7 +32,7 @@ This section lists all individual presentation abstracts and extended scientific
 :::{grid-item-card} Influence of surface imperfections on fracture nucleation in phase-field
 **Authors**: Andrey Latyshev, Jack S. Hale, Corrado Maurini  
 *Affiliations*: University of Luxembourg & Sorbonne Université  
-*Track*: Day 4 — Thursday, 28 Jan 2027 (14:00–14:30, Room MSA 3.370)  
+*Track*: Day 4 — Thursday, 28 Jan 2027 (time TBC, Room MSA 3.370)  
 
 +++
 [Read Full Abstract Page »](day4/latyshev-fracture-nucleation/index.md)

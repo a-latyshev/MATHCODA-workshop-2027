@@ -47,7 +47,7 @@ keywords:
 :class: tip
 **Track**: Day 4 — Uncertainty in Mechanics  
 **Session**: Thursday, 28 Jan 2027  
-**Time**: 14:00 – 14:30  
+**Time**: TBC  
 **Room**: MSA 3.370  
 [📅 View in Schedule](../../../schedule.md)
 ```

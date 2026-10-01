@@ -33,17 +33,12 @@ project:
       children:
         - file: abstracts/all.md
           title: All Abstracts
-          children:
-            - file: abstracts/day4/latyshev-fracture-nucleation/index.md
-              title: Latyshev. A — Influence of surface imperfections on fracture nucleation in phase-field
         - file: abstracts/template.md
           title: Submission Template
     - file: practical-info.md
       title: Practical Information
     - file: social.md
       title: Social Program
-    - file: registration.md
-      title: Registration
 
 site:
   template: book-theme
@@ -60,4 +55,4 @@ site:
     - title: Department of Mathematics
       url: https://math.uni.lu
     - title: Contact
-      url: mailto:andrey.latyshev@uni.lu
+      url: mailto:luis.maia@uni.lu

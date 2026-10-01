@@ -20,7 +20,7 @@ international researchers and doctoral candidates working at the forefront of
 mathematics, statistics, high-dimensional probability, and mechanics.
 
 Organized by the **MATHCODA Doctoral Training Unit (DTU)** at the **University
-of Luxembourg**, this four-day workshop features keynote lectures, invited
+of Luxembourg**, this four-day workshop features keynote talks, invited
 scientific talks, and social activities designed to foster interdisciplinary
 collaboration.
 
@@ -102,30 +102,3 @@ PIs:
 * **Ivan Nourdin** — Department of Mathematics
 * **Giovanni Peccati** — Department of Mathematics
 * **Mark Podolskij** — Departments of Mathematics and Finance
-
----
-
-## Quick Navigation
-
-::::{grid} 1 2 3 3
-
-:::{grid-item-card} 📅 Program & Schedule
-Explore the complete timetable, session timings, coffee breaks, and daily social activities.
-+++
-[View Schedule »](schedule.md)
-:::
-
-:::{grid-item-card} 🎙️ Speakers & Abstracts
-Browse profiles of keynote and invited speakers along with abstract placeholders.
-+++
-[Meet Speakers »](speakers.md)
-:::
-
-:::{grid-item-card} 🧭 Practical Information
-Find venue directions to MSA 3.370, Belval campus maps, train schedules, and hotel tips.
-+++
-[Read Attendee Guide »](practical-info.md)
-:::
-
-::::
-

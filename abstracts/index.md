@@ -41,25 +41,25 @@ Keynote speakers for Days 1, 3 and 4 will be announced.
 (chiara-amorino)=
 ### Chiara Amorino
 **Speaker**: Prof. Chiara Amorino (*Universitat Pompeu Fabra*)  
-**Session**: Day 2 (Tuesday, 26 Jan 2027, 10:15–10:45)  
+**Session**: Day 2 (Tuesday, 26 Jan 2027) — time TBC  
 *(Title and abstract pending)*
 
 (marc-henry)=
 ### Marc Henry
 **Speaker**: Prof. Marc Henry (*Penn State University*)  
-**Session**: Day 2 (Tuesday, 26 Jan 2027, 10:45–11:15)  
+**Session**: Day 2 (Tuesday, 26 Jan 2027) — time TBC  
 *(Title and abstract pending)*
 
 (isaiah-andrews)=
 ### Isaiah Andrews
 **Speaker**: Prof. Isaiah Andrews (*MIT*)  
-**Session**: Day 2 (Tuesday, 26 Jan 2027, 11:30–12:00)  
+**Session**: Day 2 (Tuesday, 26 Jan 2027) — time TBC  
 *(Title and abstract pending)*
 
 (mathieu-rosenbaum)=
 ### Mathieu Rosenbaum
 **Speaker**: Prof. Mathieu Rosenbaum (*École Polytechnique*)  
-**Session**: Day 2 (Tuesday, 26 Jan 2027, 12:00–12:30)  
+**Session**: Day 2 (Tuesday, 26 Jan 2027) — time TBC  
 *(Title and abstract pending)*
 
 ---

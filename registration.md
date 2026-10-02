@@ -3,8 +3,6 @@ title: Registration
 description: Attendance information for MATHCODA Workshop 2027
 ---
 
-# Registration
-
 The MATHCODA Workshop 2027 is **invite-only**. There is no public registration
 form. Invited speakers and participants are contacted directly by the
 organizing committee.

@@ -12,6 +12,17 @@
       </p>
     </div>
   </div>
+
+  <div class="hero-funding">
+    <a href="https://www.fnr.lu" target="_blank" rel="noopener noreferrer" class="hero-funding-logo-link" title="Luxembourg National Research Fund (FNR)">
+      <img src="assets/fnr_logo_light.svg" alt="Luxembourg National Research Fund (FNR)" class="hero-funding-logo logo-light" />
+      <img src="assets/fnr_logo_dark.svg" alt="Luxembourg National Research Fund (FNR)" class="hero-funding-logo logo-dark" />
+    </a>
+    <p>
+      Funded by the <strong>Luxembourg National Research Fund (FNR)</strong> under
+      grant reference <code>PRIDE/21/16747448/MATHCODA</code>.
+    </p>
+  </div>
 </div>
 
 The invite-only **MATHCODA Workshop 2027** brings together international
@@ -19,20 +30,6 @@ researchers and doctoral candidates working in mathematics, statistics,
 high-dimensional probability, and mechanics. Organized by the **MATHCODA
 Doctoral Training Unit (DTU)**, the four-day workshop features invited talks
 and social activities.
-
-<div class="fnr-funding">
-  <a href="https://www.fnr.lu" target="_blank" rel="noopener noreferrer" class="fnr-funding-logo-link" title="Luxembourg National Research Fund (FNR)">
-    <img src="assets/fnr_logo_light.svg" alt="Luxembourg National Research Fund (FNR)" class="fnr-funding-logo logo-light" />
-    <img src="assets/fnr_logo_dark.svg" alt="Luxembourg National Research Fund (FNR)" class="fnr-funding-logo logo-dark" />
-  </a>
-  <div class="fnr-funding-text">
-    <p>
-      The MATHCODA Doctoral Training Unit and this workshop are funded by the
-      <strong>Luxembourg National Research Fund (FNR)</strong> under grant reference
-      <code>PRIDE/21/16747448/MATHCODA</code>.
-    </p>
-  </div>
-</div>
 
 :::{important}
 **Important Information & Dates**

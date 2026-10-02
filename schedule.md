@@ -3,8 +3,6 @@ title: Programme & Schedule
 description: Full scientific timetable and daily programme for MATHCODA Workshop 2027
 ---
 
-# Scientific Programme & Schedule
-
 All presentations and sessions take place in **Room MSA 3.370** (3rd Floor), Maison du Savoir, Campus Belval, University of Luxembourg.
 
 :::{tip}

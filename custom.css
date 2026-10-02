@@ -876,3 +876,79 @@ article:has(.myst-fm-authors-affiliations) .myst-bibliography-list {
   font-size: 0.9375rem !important;
   line-height: 1.55 !important;
 }
+
+/* Social program photos */
+.social-photo,
+.social-photo img,
+figure.social-photo img {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: 240px !important;
+  object-fit: cover !important;
+  border-radius: 10px !important;
+  display: block !important;
+  margin: 0.75rem 0 0.25rem !important;
+}
+
+figure.social-photo {
+  width: 100% !important;
+  height: auto !important;
+  margin: 0.75rem 0 0 !important;
+}
+
+.social-credit {
+  display: block;
+  margin-top: 0.4rem;
+  font-size: 0.75rem;
+  opacity: 0.65;
+}
+
+/* Hero box brand column */
+.hero-inner {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}
+
+.hero-brand {
+  flex: 0 0 auto;
+  padding-right: 32px;
+  border-right: 1px solid rgba(15, 23, 42, 0.12);
+}
+
+html.dark .hero-brand,
+.dark .hero-brand {
+  border-right-color: rgba(255, 255, 255, 0.18);
+}
+
+.hero-logo {
+  width: 170px !important;
+  height: auto !important;
+  margin: 0 !important;
+}
+
+.hero-content {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.hero-content .hero-meta {
+  margin-bottom: 0;
+}
+
+@media (max-width: 820px) {
+  .hero-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+  }
+
+  .hero-brand {
+    padding-right: 0;
+    border-right: none;
+  }
+
+  .hero-logo {
+    width: 140px !important;
+  }
+}

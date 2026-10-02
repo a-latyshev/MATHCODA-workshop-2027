@@ -1,28 +1,32 @@
 <div class="hero-box">
-  <h1>MATHCODA Workshop 2027</h1>
-  <p class="hero-subtitle">
-    Workshop of the Doctoral Training Unit MATHCODA at the University of Luxembourg.
-  </p>
-  <div class="hero-meta">
-    <div class="hero-pill">
-      📅 <strong>25–28 January 2027</strong>
+  <div class="hero-inner">
+    <div class="hero-brand">
+      <img src="assets/mathcoda_logo_light.png" alt="MATHCODA" class="hero-logo logo-light" />
+      <img src="assets/mathcoda_logo_dark.png" alt="MATHCODA" class="hero-logo logo-dark" />
     </div>
-    <div class="hero-pill">
-      📍 <strong>Luxembourg</strong>
+    <div class="hero-content">
+      <h1>MATHCODA Workshop 2027</h1>
+      <p class="hero-subtitle">
+        Doctoral Training Unit in Mathematical and Computational Data Analytics,
+        University of Luxembourg.
+      </p>
+      <div class="hero-meta">
+        <div class="hero-pill">
+          📅 <strong>25–28 January 2027</strong>
+        </div>
+        <div class="hero-pill">
+          📍 <strong>Belval, Luxembourg</strong>
+        </div>
+      </div>
     </div>
   </div>
 </div>
 
-## Welcome to MATHCODA 2027
-
-The invite-only **MATHCODA Workshop 2027** brings together leading
-international researchers and doctoral candidates working at the forefront of
-mathematics, statistics, high-dimensional probability, and mechanics.
-
-Organized by the **MATHCODA Doctoral Training Unit (DTU)** at the **University
-of Luxembourg**, this four-day workshop features keynote talks, invited
-scientific talks, and social activities designed to foster interdisciplinary
-collaboration.
+The invite-only **MATHCODA Workshop 2027** brings together international
+researchers and doctoral candidates working in mathematics, statistics,
+high-dimensional probability, and mechanics. Organized by the **MATHCODA
+Doctoral Training Unit (DTU)** at the **University of Luxembourg**, the
+four-day workshop features invited talks and social activities.
 
 <div class="fnr-funding">
   <a href="https://www.fnr.lu" target="_blank" rel="noopener noreferrer" class="fnr-funding-logo-link" title="Luxembourg National Research Fund (FNR)">
@@ -57,22 +61,29 @@ The scientific programme is structured into four focused scientific tracks:
 :::{grid-item-card} Day 1: Statistical Inference and Modelling
 **Monday, 25 January 2027**  
 *Coordinator: Sophia Loizidou*
++++
+[View Day 1 timetable »](schedule.md#day-1)
 :::
 
 :::{grid-item-card} Day 2: Economics and Stochastic Processes
 **Tuesday, 26 January 2027**  
 *Coordinators: Francisco Pina & Ali Atabaigialami*
++++
+[View Day 2 timetable »](schedule.md#day-2)
 :::
 
 :::{grid-item-card} Day 3: Probability
 **Wednesday, 27 January 2027**  
 *Coordinators: Luís da Maia & Lucia Celli*
++++
+[View Day 3 timetable »](schedule.md#day-3)
 :::
 
 :::{grid-item-card} Day 4: Uncertainty in Mechanics
 **Thursday, 28 January 2027**  
 *Coordinator: Andrey Latyshev*
-
++++
+[View Day 4 timetable »](schedule.md#day-4)
 :::
 
 ::::

@@ -129,7 +129,7 @@ jupyter-book clean --all
 ├── practical-info.md      # Venue guide (Maison du Savoir), transit tips, and hotels
 ├── social.md              # City tours, Belval blast furnaces, and conference dinner
 ├── registration.md        # Invite-only attendance notice and contact
-├── footer.md              # Custom footer banner (Uni.lu, FSTM, MATHCODA, FNR logos + CC-BY disclaimer)
+├── footer.md              # Custom footer banner (Uni.lu, FSTM, MATHCODA, FNR logos + funding note)
 ├── custom.css             # Custom styling for light/dark modes, cards, and typography
 ├── myst.yml               # Jupyter Book 2 / MyST configuration
 ├── build.sh               # Local build & development helper script

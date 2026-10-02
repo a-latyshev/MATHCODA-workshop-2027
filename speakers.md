@@ -94,6 +94,11 @@ Speaker announcements for this day are forthcoming.
 
 ::::{grid} 1 2 2 2
 
+:::{grid-item-card} Andrey Latyshev
+**University of Luxembourg & Sorbonne Université**  
+[Read Abstract »](abstracts/day4/latyshev-fracture-nucleation/index.md#latyshev-abstract)
+:::
+
 :::{grid-item-card} To be announced
 Speaker announcements for this day are forthcoming.
 :::

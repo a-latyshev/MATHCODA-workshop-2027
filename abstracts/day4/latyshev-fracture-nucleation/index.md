@@ -17,6 +17,7 @@ bibliography:
   - references.bib
 ---
 
+(latyshev-abstract)=
 # Influence of surface imperfections on fracture nucleation in phase-field
 
 Geometric imperfections such as surface roughness play a decisive role in governing the tensile strength of brittle and quasi-brittle solids. In engineering components, cracks invariably nucleate from localized surface flaws that act as severe stress concentrators. However, classical fracture mechanics and standard experimental characterizations frequently assume idealized, nominally smooth boundaries, which can lead to significant and unsafe overestimations of the true failure load.

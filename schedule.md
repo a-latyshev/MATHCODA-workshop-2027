@@ -1,9 +1,9 @@
 ---
-title: Program & Schedule
-description: Full scientific timetable and daily program for MATHCODA Workshop 2027
+title: Programme & Schedule
+description: Full scientific timetable and daily programme for MATHCODA Workshop 2027
 ---
 
-# Scientific Program & Schedule
+# Scientific Programme & Schedule
 
 All presentations and sessions take place in **Room MSA 3.370** (3rd Floor), Maison du Savoir, Campus Belval, University of Luxembourg.
 
@@ -38,6 +38,7 @@ Use the tabs below to view the daily structure. Talk titles and speaker assignme
 ````{tab-set}
 
 ```{tab-item} Day 1: Monday, 25 Jan
+:label: day-1
 **Day 1: Statistical Inference and Modelling**  
 *Date*: Monday, 25 January 2027  
 *Location*: Room MSA 3.370
@@ -57,6 +58,7 @@ Use the tabs below to view the daily structure. Talk titles and speaker assignme
 ```
 
 ```{tab-item} Day 2: Tuesday, 26 Jan
+:label: day-2
 **Day 2: Economics and Stochastic Processes**  
 *Date*: Tuesday, 26 January 2027  
 *Session Leads / Chairs*: Francisco Pina & Ali Atabaigialami  
@@ -75,6 +77,7 @@ Use the tabs below to view the daily structure. Talk titles and speaker assignme
 ```
 
 ```{tab-item} Day 3: Wednesday, 27 Jan
+:label: day-3
 **Day 3: Probability**  
 *Date*: Wednesday, 27 January 2027  
 *Location*: Room MSA 3.370
@@ -92,6 +95,7 @@ Use the tabs below to view the daily structure. Talk titles and speaker assignme
 ```
 
 ```{tab-item} Day 4: Thursday, 28 Jan
+:label: day-4
 **Day 4: Uncertainty in Mechanics**  
 *Date*: Thursday, 28 January 2027  
 *Location*: Room MSA 3.370

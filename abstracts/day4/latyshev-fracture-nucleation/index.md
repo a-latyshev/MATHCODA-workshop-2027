@@ -1,6 +1,6 @@
 ---
 title: Influence of surface imperfections on fracture nucleation in phase-field
-short_title: Latyshev. A — Influence of surface imperfections
+short_title: Fracture Nucleation
 description: Scientific abstract and presentation overview for MATHCODA Workshop 2027 by Andrey Latyshev.
 affiliations:
   - id: unilu
@@ -12,19 +12,12 @@ authors:
     affiliations:
       - unilu
       - sorbonne
-    email: andrey.latyshev@uni.lu
     orcid: 0009-0002-7512-0413
-venue:
-  title: MATHCODA Workshop 2027
-  url: https://a-latyshev.github.io/MATHCODA-workshop-2027/
-# date: 2027-01-28
 bibliography:
   - references.bib
 ---
 
 # Influence of surface imperfections on fracture nucleation in phase-field
-
-## Abstract
 
 Geometric imperfections such as surface roughness play a decisive role in governing the tensile strength of brittle and quasi-brittle solids. In engineering components, cracks invariably nucleate from localized surface flaws that act as severe stress concentrators. However, classical fracture mechanics and standard experimental characterizations frequently assume idealized, nominally smooth boundaries, which can lead to significant and unsafe overestimations of the true failure load.
 

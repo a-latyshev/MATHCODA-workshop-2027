@@ -124,7 +124,6 @@ jupyter-book clean --all
 ├── schedule.md            # Interactive 4-day workshop timetable and session chairs
 ├── speakers.md            # Keynote & invited speaker profiles
 ├── abstracts/             # Abstract submissions directory
-│   ├── index.md           # Abstracts hub
 │   └── template.md        # Author submission template with LaTeX math support
 ├── practical-info.md      # Venue guide (Maison du Savoir), transit tips, and hotels
 ├── social.md              # City tours, Belval blast furnaces, and conference dinner

@@ -9,7 +9,7 @@ All presentations and sessions take place in **Room MSA 3.370** (3rd Floor), Mai
 
 :::{tip}
 **Presentation Guidelines**
-* **Keynote Talks**: 45 minutes (including 5–10 minutes Q&A).
+* **Keynote Talks**: 45 minutes (including 5 minutes Q&A).
 * **Invited Talks**: 30 minutes (including 5 minutes Q&A).
 :::
 

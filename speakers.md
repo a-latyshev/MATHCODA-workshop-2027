@@ -1,86 +1,82 @@
 ---
 title: Speakers
-description: Keynote and invited speakers for MATHCODA Workshop 2027
+description: Speakers for MATHCODA Workshop 2027
 ---
 
 # Speakers
 
-The MATHCODA Workshop 2027 convenes international experts across statistics, economics, probability, and computational engineering.
+:::{note}
+Titles and abstracts are still being collected. Speakers may consult the
+[Abstract Submission Templates](abstracts/template.md).
+:::
 
 ---
 
-## Keynote Speakers
+## Day 1: Statistical Inference and Modelling
 
-::::{grid} 1 1 2 2
+::::{grid} 1 2 2 2
 
-:::{grid-item-card} Keynote Speaker (Day 1)
-*To be announced*
+:::{grid-item-card} Sophia Loizidou
+**University of Luxembourg**
 :::
+
+:::{grid-item-card} To be announced
+Speaker announcements for this day are forthcoming.
+:::
+
+::::
+
+---
+
+## Day 2: Economics and Stochastic Processes
+
+::::{grid} 1 2 2 2
 
 :::{grid-item-card} Prof. Victor Chernozhukov
 (prof-victor-chernozhukov)=
-**Massachusetts Institute of Technology (MIT), USA**
-+++
-[Read Abstract »](abstracts/index.md#victor-chernozhukov)
+**Massachusetts Institute of Technology (MIT), USA**  
+*Keynote talk*
 :::
-
-:::{grid-item-card} Keynote Speaker (Day 3)
-*To be announced*
-:::
-
-:::{grid-item-card} Keynote Speaker (Day 4)
-*To be announced*
-:::
-
-::::
-
----
-
-## Invited Speakers
-
-### Day 1: Statistical Inference and Modelling
-
-::::{grid} 1 2 2 2
-
-:::{grid-item-card} To be announced
-Speaker announcements for this day are forthcoming.
-:::
-
-::::
-
----
-
-### Day 2: Economics and Stochastic Processes
-
-::::{grid} 1 2 2 2
 
 :::{grid-item-card} Prof. Chiara Amorino
-**Universitat Pompeu Fabra, Spain**  
-[Read Abstract »](abstracts/index.md#chiara-amorino)
+**Universitat Pompeu Fabra, Spain**
 :::
 
 :::{grid-item-card} Prof. Marc Henry
-**Penn State University, USA**  
-[Read Abstract »](abstracts/index.md#marc-henry)
+**Penn State University, USA**
 :::
 
 :::{grid-item-card} Prof. Isaiah Andrews
-**Massachusetts Institute of Technology (MIT), USA**  
-[Read Abstract »](abstracts/index.md#isaiah-andrews)
+**Massachusetts Institute of Technology (MIT), USA**
 :::
 
 :::{grid-item-card} Prof. Mathieu Rosenbaum
-**École Polytechnique, France**  
-[Read Abstract »](abstracts/index.md#mathieu-rosenbaum)
+**École Polytechnique, France**
+:::
+
+:::{grid-item-card} Francisco Pina
+**University of Luxembourg**
+:::
+
+:::{grid-item-card} Ali Atabaigialami
+**University of Luxembourg**
 :::
 
 ::::
 
 ---
 
-### Day 3: Probability
+## Day 3: Probability
 
 ::::{grid} 1 2 2 2
+
+:::{grid-item-card} Luís da Maia
+**University of Luxembourg**
+:::
+
+:::{grid-item-card} Lucia Celli
+**University of Luxembourg**
+:::
 
 :::{grid-item-card} To be announced
 Speaker announcements for this day are forthcoming.
@@ -90,7 +86,7 @@ Speaker announcements for this day are forthcoming.
 
 ---
 
-### Day 4: Uncertainty in Mechanics
+## Day 4: Uncertainty in Mechanics
 
 ::::{grid} 1 2 2 2
 

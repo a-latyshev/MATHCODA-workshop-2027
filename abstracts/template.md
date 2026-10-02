@@ -3,19 +3,13 @@ title: Abstract Submission Templates
 description: Submission templates for MATHCODA Workshop 2027 abstracts
 ---
 
-# Abstract Submission Templates
-
-Invited speakers can submit their abstract using either **Plain Text (`.txt`
-/ `.md`)** or **LaTeX (`.tex`)** via email to
+Invited speakers can submit their abstract as either **plain text (`.txt`)** or
+**LaTeX (`.tex`)** via email to
 [andrey.latyshev@uni.lu](mailto:andrey.latyshev@uni.lu).
 
 ---
 
-## Option 1: Plain Text Template (`.txt` / `.md`)
-
-You can fill in the template below and email it directly. If your abstract
-contains mathematical expressions, you can write standard inline or display
-LaTeX syntax e.g. `$f(x)$` or `$$\mathbb{E}[X]$$`.
+## Option 1: Plain Text Template (`.txt`)
 
 ```text
 TITLE:
@@ -49,11 +43,6 @@ BIBTEX REFERENCES:
 ---
 
 ## Option 2: LaTeX Template (`.tex`)
-
-If you prefer preparing your abstract in LaTeX, you can use the template below.
-You may include standard mathematical equations (`amsmath`) and figures. Send a
-single `.tex` file. The BibTeX entries are embedded in it, so no separate `.bib`
-file is needed.
 
 ```latex
 \documentclass{article}
@@ -89,7 +78,8 @@ file is needed.
 \maketitle
 
 \begin{abstract}
-Provide a 200–300 word summary of your presentation. You can include standard LaTeX mathematical notation:
+Provide a 200–300 word summary of your presentation. You can include standard
+LaTeX mathematical notation:
 
 \begin{equation}
 \mathbb{E}[f(X)] = \int_{\Omega} f(x) \, \mathrm{d}\mathbb{P}(x)

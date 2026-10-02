@@ -10,14 +10,6 @@
         Doctoral Training Unit in Mathematical and Computational Data Analytics,
         University of Luxembourg.
       </p>
-      <div class="hero-meta">
-        <div class="hero-pill">
-          📅 <strong>25–28 January 2027</strong>
-        </div>
-        <div class="hero-pill">
-          📍 <strong>Belval, Luxembourg</strong>
-        </div>
-      </div>
     </div>
   </div>
 </div>
@@ -25,8 +17,8 @@
 The invite-only **MATHCODA Workshop 2027** brings together international
 researchers and doctoral candidates working in mathematics, statistics,
 high-dimensional probability, and mechanics. Organized by the **MATHCODA
-Doctoral Training Unit (DTU)** at the **University of Luxembourg**, the
-four-day workshop features invited talks and social activities.
+Doctoral Training Unit (DTU)**, the four-day workshop features invited talks
+and social activities.
 
 <div class="fnr-funding">
   <a href="https://www.fnr.lu" target="_blank" rel="noopener noreferrer" class="fnr-funding-logo-link" title="Luxembourg National Research Fund (FNR)">
@@ -34,7 +26,6 @@ four-day workshop features invited talks and social activities.
     <img src="assets/fnr_logo_dark.svg" alt="Luxembourg National Research Fund (FNR)" class="fnr-funding-logo logo-dark" />
   </a>
   <div class="fnr-funding-text">
-    <p class="fnr-funding-lead">Made possible by the Luxembourg National Research Fund</p>
     <p>
       The MATHCODA Doctoral Training Unit and this workshop are funded by the
       <strong>Luxembourg National Research Fund (FNR)</strong> under grant reference

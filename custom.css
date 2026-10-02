@@ -132,41 +132,8 @@ article:has(.hero-box) .hero-box {
   color: #475569 !important;
   line-height: 1.6;
   max-width: 800px;
-  margin-bottom: 26px;
+  margin-bottom: 0;
   font-weight: 450;
-}
-
-.hero-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-}
-
-.hero-pill {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  background: #ffffff !important;
-  padding: 8px 18px;
-  border-radius: 9999px;
-  font-size: 0.92rem;
-  font-weight: 500;
-  color: #1e293b !important;
-  border: 1px solid #cbd5e1 !important;
-  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.06);
-  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.hero-pill strong {
-  color: #0f172a !important;
-  font-weight: 650;
-}
-
-.hero-pill:hover {
-  background: #f8fafc !important;
-  border-color: #3b82f6 !important;
-  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.12);
-  transform: translateY(-1px);
 }
 
 /* Dark Mode Hero Styling */
@@ -198,25 +165,6 @@ html.dark .hero-box .heading-text,
 html.dark .hero-subtitle,
 .dark .hero-subtitle {
   color: #cbd5e1 !important;
-}
-
-html.dark .hero-pill,
-.dark .hero-pill {
-  background: rgba(255, 255, 255, 0.08) !important;
-  color: #f8fafc !important;
-  border: 1px solid rgba(255, 255, 255, 0.15) !important;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25) !important;
-}
-
-html.dark .hero-pill strong,
-.dark .hero-pill strong {
-  color: #ffffff !important;
-}
-
-html.dark .hero-pill:hover,
-.dark .hero-pill:hover {
-  background: rgba(255, 255, 255, 0.16) !important;
-  border-color: rgba(255, 255, 255, 0.3) !important;
 }
 
 /* --------------------------------------------------------------------------
@@ -828,13 +776,6 @@ html.dark .mathcoda-disclaimer-text a:hover,
   height: auto;
 }
 
-.fnr-funding-lead {
-  margin: 0 0 0.4rem;
-  font-weight: 700;
-  font-size: 1.05rem;
-  color: var(--mathcoda-primary);
-}
-
 .fnr-funding-text p:last-child {
   margin: 0;
 }
@@ -843,11 +784,6 @@ html.dark .fnr-funding,
 .dark .fnr-funding {
   background: rgba(255, 255, 255, 0.03);
   border-color: rgba(255, 255, 255, 0.12);
-}
-
-html.dark .fnr-funding-lead,
-.dark .fnr-funding-lead {
-  color: #e2e8f0;
 }
 
 @media (max-width: 640px) {
@@ -930,10 +866,6 @@ html.dark .hero-brand,
 .hero-content {
   flex: 1 1 auto;
   min-width: 0;
-}
-
-.hero-content .hero-meta {
-  margin-bottom: 0;
 }
 
 @media (max-width: 820px) {

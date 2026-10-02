@@ -952,3 +952,71 @@ html.dark .hero-brand,
     width: 140px !important;
   }
 }
+
+/* Cross-reference hover preview. The theme's dark values give too little contrast */
+html.dark .hover-card-content,
+.dark .hover-card-content {
+  --myst-color-bg: #1e293b;
+  --myst-color-bg-secondary: #0f172a;
+  --myst-color-border: #475569;
+  --myst-color-text: #f8fafc;
+  --myst-color-text-secondary: #cbd5e1;
+  --myst-color-text-tertiary: #94a3b8;
+}
+
+html.dark .hover-card-content,
+.dark .hover-card-content {
+  background-color: #1e293b !important;
+  border-radius: 0.25rem !important;
+}
+
+html.dark .hover-document,
+.dark .hover-document {
+  background-color: #1e293b !important;
+  border-color: #475569 !important;
+  color: #f1f5f9 !important;
+}
+
+html.dark .hover-document *,
+.dark .hover-document * {
+  color: #f1f5f9 !important;
+}
+
+html.dark .hover-document p,
+.dark .hover-document p {
+  color: #cbd5e1 !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) .hover-document {
+    background-color: #1e293b !important;
+    border-color: #475569 !important;
+    color: #f1f5f9 !important;
+  }
+
+  :root:not(.light) .hover-document * {
+    color: #f1f5f9 !important;
+  }
+
+  :root:not(.light) .hover-document p {
+    color: #cbd5e1 !important;
+  }
+}
+
+html.dark .hover-card-content h1,
+html.dark .hover-card-content h2,
+html.dark .hover-card-content h3,
+html.dark .hover-card-content h4,
+html.dark .hover-card-content .myst-fm-block-title,
+html.dark .hover-card-content strong,
+html.dark .hover-card-content a,
+.dark .hover-card-content h1,
+.dark .hover-card-content h2,
+.dark .hover-card-content h3,
+.dark .hover-card-content h4,
+.dark .hover-card-content .myst-fm-block-title,
+.dark .hover-card-content strong,
+.dark .hover-card-content a {
+  color: #f8fafc !important;
+  -webkit-text-fill-color: #f8fafc !important;
+}

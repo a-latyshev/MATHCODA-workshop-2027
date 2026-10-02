@@ -3,8 +3,6 @@ title: Practical Information
 description: Venue, travel directions, and attendee guide for MATHCODA 2027
 ---
 
-# Practical Information
-
 ## Workshop Venue
 
 * **Room**: **MSA 3.370** (3rd Floor)
@@ -31,22 +29,32 @@ Public transport across Luxembourg is free. This covers all trains in 2nd
 class, trams and regional buses. No ticket is needed.
 
 :::{tip}
-📱 For timetables and routing, use Google Maps, the
-**[CFL app](https://www.cfl.lu/fr-fr/app/cflgo)** or
+📱 For timetables and routing, use
+**[mobiliteit.lu](https://www.mobiliteit.lu/en/plan-a-trip/)**, the
+**[CFL Go App](https://www.cfl.lu/fr-fr/app/cflgo)**, Google Maps or
 **[Citymapper](https://citymapper.com/luxembourg)**.
 :::
 
 ### By Air (Luxembourg Airport — LUX)
 
-* Tram **Line T1** or **Bus 29** from the airport to **Luxembourg Gare Centrale**
-  (approx. 15–20 minutes).
+* Tram **Line T1** from the airport to **Luxembourg Gare Centrale**, approximately
+  30 minutes.
 * From Gare Centrale, take the direct train to **Belval-Université**.
 
 ### By Train
 
-* Regional train from **Luxembourg Gare Centrale** to **Belval-Université**.
-* Trains depart every 15 minutes; the journey takes approximately 30 minutes.
-* **Belval-Université** station is a 3-minute walk from Maison du Savoir.
+* Regional train from **Luxembourg Gare Centrale** to **Belval-Université**,
+  approximately 30 minutes.
+* Trains depart every 15 minutes, and every 30 minutes on Sundays.
+* **Belval-Université** station is an 8-minute walk from Maison du Savoir.
+
+### By Taxi
+
+:::{warning}
+Taxis in Luxembourg are expensive. A fare from the airport to Belval can reach
+**€150** on a Sunday. Taxi fares cannot be claimed as a travel expense without
+prior approval from the organizing committee.
+:::
 
 ---
 

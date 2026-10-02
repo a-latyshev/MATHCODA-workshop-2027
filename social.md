@@ -3,8 +3,6 @@ title: Social Programme
 description: Social activities and conference dinner for MATHCODA 2027
 ---
 
-# Social Programme
-
 ::::{grid} 1
 
 :::{grid-item-card} 🏛️ Luxembourg City Tour

@@ -3,8 +3,6 @@ title: Speakers
 description: Speakers for MATHCODA Workshop 2027
 ---
 
-# Speakers
-
 :::{note}
 Titles and abstracts are still being collected. Speakers may consult the
 [Abstract Submission Templates](abstracts/template.md).

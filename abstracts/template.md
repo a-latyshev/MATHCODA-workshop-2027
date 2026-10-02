@@ -1,41 +1,36 @@
 ---
 title: Abstract Submission Templates
-description: Submission templates (Plain Text and LaTeX) for MATHCODA Workshop 2027 abstracts
+description: Submission templates for MATHCODA Workshop 2027 abstracts
 ---
 
-# Abstract Submission Guidelines & Templates
+# Abstract Submission Templates
 
-Invited speakers and contributing presenters are welcome to submit their
-abstract using either **Plain Text (`.txt` / `.md`)** or **LaTeX (`.tex`)**.
+Invited speakers can submit their abstract using either **Plain Text (`.txt`
+/ `.md`)** or **LaTeX (`.tex`)** via email to
+[andrey.latyshev@uni.lu](mailto:andrey.latyshev@uni.lu).
 
 ---
 
-## Option 1: Plain Text Template (`.txt` / `.md` / Email)
+## Option 1: Plain Text Template (`.txt` / `.md`)
 
-You can fill in the template below and email it directly. If your abstract contains mathematical expressions, you may write standard inline or display LaTeX / KaTeX formulas (e.g. `$f(x)$` or `$$\mathbb{E}[X]$$`).
+You can fill in the template below and email it directly. If your abstract
+contains mathematical expressions, you can write standard inline or display
+LaTeX syntax e.g. `$f(x)$` or `$$\mathbb{E}[X]$$`.
 
 ```text
 TITLE:
 [Your Presentation Title]
 
 AUTHORS:
-1. Firstname Lastname (Corresponding Author)
-   - Affiliation: Department of Mathematics, University of Luxembourg, Luxembourg
-   - Email: author@institution.edu
-   - ORCID: 0000-0000-0000-0000 (optional but encouraged)
-
-2. Coauthor Firstname Lastname
-   - Affiliation: Institute Name, University Name, Country
-   - Email: coauthor@institution.edu
-   - ORCID: 0000-0000-0000-0000
-
-KEYWORDS:
-[Keyword 1, Keyword 2, Keyword 3, Keyword 4]
+Firstname K. Lastname
+  - Affiliation: Department of Mathematics, University of Luxembourg, Luxembourg.
 
 ABSTRACT:
-[Provide a 200–300 word summary of your presentation. You can use standard LaTeX / KaTeX formulas like $\mathbb{E}[f(X)] = \int f(x) \mathrm{d}\mathbb{P}(x)$ if needed.]
+[Provide a 200–300 word summary of your presentation. You can use standard LaTeX / KaTeX formulas like $\mathbb{E}[f(X)] = \int f(x) \mathrm{d}\mathbb{P}(x)$ if needed.
 
-BIBTEX REFERENCES (Please provide BibTeX entries for your citations):
+Joint work with X, Y and Z.]
+
+BIBTEX REFERENCES:
 @article{author2026,
   title = {Title of paper},
   author = {Author, Firstname and Coauthor, Secondname},
@@ -52,7 +47,9 @@ BIBTEX REFERENCES (Please provide BibTeX entries for your citations):
 
 ## Option 2: LaTeX Template (`.tex`)
 
-If you prefer preparing your abstract in LaTeX, you can use the template below. You may include standard mathematical equations (`amsmath`), figures, and citations via an accompanying `.bib` file.
+If you prefer preparing your abstract in LaTeX, you can use the template below.
+You may include standard mathematical equations (`amsmath`), figures, and
+citations via an accompanying `.bib` file.
 
 ```latex
 \documentclass{article}
@@ -74,9 +71,7 @@ If you prefer preparing your abstract in LaTeX, you can use the template below. 
 \maketitle
 
 \noindent
-$^{*}$ Corresponding Author: \texttt{author@institution.edu} (ORCID: 0000-0000-0000-0000)\\
-$^{1}$ \textit{Department of Mathematics, University of Luxembourg, Luxembourg}\\
-$^{2}$ \textit{Institute Name, University Name, City, Country}
+$\texttt{author@institution.edu} (ORCID: 0000-0000-0000-0000)\\
 
 \vspace{1.5em}
 
@@ -100,6 +95,7 @@ Highlight the core methodology, theoretical contributions, and numerical or comp
 ```
 
 ### Accompanying `references.bib`
+
 ```bibtex
 @article{author2026,
   title = {Title of paper},

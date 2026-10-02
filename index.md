@@ -1,65 +1,80 @@
 <div class="hero-box">
-  <h1>MATHCODA Workshop 2027</h1>
-  <p class="hero-subtitle">
-    Workshop of the Doctoral Training Unit MATHCODA at the University of Luxembourg.
-  </p>
-  <div class="hero-meta">
-    <div class="hero-pill">
-      📅 <strong>25–28 January 2027</strong>
+  <div class="hero-inner">
+    <div class="hero-brand">
+      <img src="assets/mathcoda_logo_light.png" alt="MATHCODA" class="hero-logo logo-light" />
+      <img src="assets/mathcoda_logo_dark.png" alt="MATHCODA" class="hero-logo logo-dark" />
     </div>
-    <div class="hero-pill">
-      📍 <strong>Luxembourg</strong>
+    <div class="hero-content">
+      <h1>MATHCODA Workshop 2027</h1>
+      <p class="hero-subtitle">
+        Doctoral Training Unit in Mathematical and Computational Data Analytics,
+        University of Luxembourg.
+      </p>
     </div>
   </div>
 </div>
 
-## Welcome to MATHCODA 2027
+The invite-only **MATHCODA Workshop 2027** brings together international
+researchers and doctoral candidates working in mathematics, statistics,
+high-dimensional probability, and mechanics. Organized by the **MATHCODA
+Doctoral Training Unit (DTU)**, the four-day workshop features invited talks
+and social activities.
 
-The **MATHCODA Workshop 2027** brings together leading international
-researchers, doctoral candidates, and practitioners working at the forefront of
-mathematics, statistics, high-dimensional probability, and computational
-mechanics.
-
-Organized by the **MATHCODA Doctoral Training Unit (DTU)** at the **University
-of Luxembourg**, this four-day workshop features keynote lectures, invited
-scientific talks, doctoral research presentations, and vibrant social activities
-designed to foster interdisciplinary collaboration.
+<div class="fnr-funding">
+  <a href="https://www.fnr.lu" target="_blank" rel="noopener noreferrer" class="fnr-funding-logo-link" title="Luxembourg National Research Fund (FNR)">
+    <img src="assets/fnr_logo_light.svg" alt="Luxembourg National Research Fund (FNR)" class="fnr-funding-logo logo-light" />
+    <img src="assets/fnr_logo_dark.svg" alt="Luxembourg National Research Fund (FNR)" class="fnr-funding-logo logo-dark" />
+  </a>
+  <div class="fnr-funding-text">
+    <p>
+      The MATHCODA Doctoral Training Unit and this workshop are funded by the
+      <strong>Luxembourg National Research Fund (FNR)</strong> under grant reference
+      <code>PRIDE/21/16747448/MATHCODA</code>.
+    </p>
+  </div>
+</div>
 
 :::{important}
 **Important Information & Dates**
 * **Workshop Dates**: Monday, 25 January 2027 – Thursday, 28 January 2027
 * **Venue**: Room MSA 3.370 (3rd Floor), Maison du Savoir, Campus Belval, [University of Luxembourg](https://maps.app.goo.gl/NxCNyCJVaXuqY1mx7)
-* **Registration Opens**: Autumn 2026
-* **Registration Closes**: *To be announced*
+* **Contact**: [Luís da Maia](https://scholar.google.com/citations?user=-5pHl7EAAAAJ&hl=en) — [luis.maia@uni.lu](mailto:luis.maia@uni.lu)
 :::
 
 ---
 
 ## Four Scientific Tracks
 
-The scientific programme is structured into four focused thematic days:
+The scientific programme is structured into four focused scientific tracks:
 
 ::::{grid} 1
 
-:::{grid-item-card} Day 1: Statistical Inference & Modelling
+:::{grid-item-card} Day 1: Statistical Inference and Modelling
 **Monday, 25 January 2027**  
 *Coordinator: Sophia Loizidou*
++++
+[View Day 1 timetable »](schedule.md#day-1)
 :::
 
-:::{grid-item-card} Day 2: Economics & Stochastic Processes
+:::{grid-item-card} Day 2: Economics and Stochastic Processes
 **Tuesday, 26 January 2027**  
-*Coordinators: Francisco Pina Monzo & Ali Atabaigialami*
+*Coordinators: Francisco Pina & Ali Atabaigialami*
++++
+[View Day 2 timetable »](schedule.md#day-2)
 :::
 
-:::{grid-item-card} Day 3: Probability & Random Structures
+:::{grid-item-card} Day 3: Probability
 **Wednesday, 27 January 2027**  
-*Coordinators: Luis Maia & Lucia Celli*
+*Coordinators: Luís da Maia & Lucia Celli*
++++
+[View Day 3 timetable »](schedule.md#day-3)
 :::
 
 :::{grid-item-card} Day 4: Uncertainty in Mechanics
 **Thursday, 28 January 2027**  
 *Coordinator: Andrey Latyshev*
-
++++
+[View Day 4 timetable »](schedule.md#day-4)
 :::
 
 ::::
@@ -69,48 +84,23 @@ The scientific programme is structured into four focused thematic days:
 ## Organizing Committee
 
 The workshop is organized by doctoral candidates and faculty members from the
-MATHCODA Doctoral Training Unit, the Department of Mathematics and the
-Department of Engineering at the University of Luxembourg:
+MATHCODA Doctoral Training Unit, the Department of Mathematics, the
+Department of Engineering and the Department of Finance at the University of
+Luxembourg:
 
 Doctoral researchers:
-* [**Andrey Latyshev**](https://www.linkedin.com/in/andrey-latyshev/) — *Uncertainty in Mechanics Coordinator*
-* **Sophia Loizidou** — *Statistics Coordinator*
-* **Francisco Pina Monzo** & **Ali Atabaigialami** — *Economics & Stochastics Coordinators*
-* **Luis Maia** & **Lucia Celli**  — *Probability Coordinator*
+* [**Sophia Loizidou**](https://sites.google.com/view/sophia-loizidou/home) — Department of Mathematics
+* [**Andrey Latyshev**](https://www.linkedin.com/in/andrey-latyshev/) — Department of Engineering
+* [**Francisco Pina**](https://scholar.google.com/citations?user=1-bpGa0AAAAJ&hl=en) — Department of Mathematics
+* **Ali Atabaigialami** — Department of Finance
+* [**Lucia Celli**](https://scholar.google.com/citations?user=7BH36icAAAAJ&hl=en) — Department of Mathematics
+* [**Luís da Maia**](https://scholar.google.com/citations?user=-5pHl7EAAAAJ&hl=en) — Department of Mathematics
 
 PIs:
-* **Prof. Christophe LEY**
-* **Prof. Jack S. Hale** — *Senior Advisor & Scientific Coordination*
-* **Prof. Giovanni Peccati** — *MATHCODA Coordinator & Head of Department*
-* **Prof. Dr ???**
-
-## Contact information
-
-If you have any questions about the workshop organization, please contact us via **TBA**.
-
----
-
-## Quick Navigation
-
-::::{grid} 1 2 3 3
-
-:::{grid-item-card} 📅 Program & Schedule
-Explore the complete timetable, session timings, coffee breaks, and daily social activities.
-+++
-[View Schedule »](schedule.md)
-:::
-
-:::{grid-item-card} 🎙️ Speakers & Abstracts
-Browse profiles of keynote and invited speakers along with abstract placeholders.
-+++
-[Meet Speakers »](speakers.md)
-:::
-
-:::{grid-item-card} 🧭 Practical Information
-Find venue directions to MSA 3.370, Belval campus maps, train schedules, and hotel tips.
-+++
-[Read Attendee Guide »](practical-info.md)
-:::
-
-::::
-
+* **Yannick Baraud** — Department of Mathematics
+* **Jack S. Hale** — Department of Engineering
+* **Benjamin Holcblat** — Department of Finance
+* **Christophe Ley** — Department of Mathematics
+* **Ivan Nourdin** — Department of Mathematics
+* **Giovanni Peccati** — Department of Mathematics
+* **Mark Podolskij** — Departments of Mathematics and Finance

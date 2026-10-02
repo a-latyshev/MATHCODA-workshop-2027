@@ -132,41 +132,8 @@ article:has(.hero-box) .hero-box {
   color: #475569 !important;
   line-height: 1.6;
   max-width: 800px;
-  margin-bottom: 26px;
+  margin-bottom: 0;
   font-weight: 450;
-}
-
-.hero-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-}
-
-.hero-pill {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  background: #ffffff !important;
-  padding: 8px 18px;
-  border-radius: 9999px;
-  font-size: 0.92rem;
-  font-weight: 500;
-  color: #1e293b !important;
-  border: 1px solid #cbd5e1 !important;
-  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.06);
-  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.hero-pill strong {
-  color: #0f172a !important;
-  font-weight: 650;
-}
-
-.hero-pill:hover {
-  background: #f8fafc !important;
-  border-color: #3b82f6 !important;
-  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.12);
-  transform: translateY(-1px);
 }
 
 /* Dark Mode Hero Styling */
@@ -198,25 +165,6 @@ html.dark .hero-box .heading-text,
 html.dark .hero-subtitle,
 .dark .hero-subtitle {
   color: #cbd5e1 !important;
-}
-
-html.dark .hero-pill,
-.dark .hero-pill {
-  background: rgba(255, 255, 255, 0.08) !important;
-  color: #f8fafc !important;
-  border: 1px solid rgba(255, 255, 255, 0.15) !important;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25) !important;
-}
-
-html.dark .hero-pill strong,
-.dark .hero-pill strong {
-  color: #ffffff !important;
-}
-
-html.dark .hero-pill:hover,
-.dark .hero-pill:hover {
-  background: rgba(255, 255, 255, 0.16) !important;
-  border-color: rgba(255, 255, 255, 0.3) !important;
 }
 
 /* --------------------------------------------------------------------------
@@ -391,6 +339,13 @@ td {
 
 .dark td {
   border-bottom: 1px solid #334155 !important;
+}
+
+/* Keep timetable times on one line */
+th:first-child,
+td:first-child {
+  white-space: nowrap !important;
+  min-width: 9.5rem !important;
 }
 
 tbody tr:hover {
@@ -796,3 +751,204 @@ html.dark .mathcoda-disclaimer-text a:hover,
   }
 }
 
+
+/* FNR funding highlight on the landing page */
+.fnr-funding {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin: 2.5rem 0;
+  padding: 1.75rem 2rem;
+  border: 1px solid var(--mathcoda-border);
+  border-left: 5px solid var(--mathcoda-accent);
+  border-radius: 12px;
+  background: var(--mathcoda-card-bg);
+}
+
+.fnr-funding-logo-link {
+  flex: 0 0 auto;
+  display: block;
+}
+
+.fnr-funding-logo {
+  width: 220px;
+  max-width: 100%;
+  height: auto;
+}
+
+.fnr-funding-text p:last-child {
+  margin: 0;
+}
+
+html.dark .fnr-funding,
+.dark .fnr-funding {
+  background: rgba(255, 255, 255, 0.03);
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+@media (max-width: 640px) {
+  .fnr-funding {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.25rem;
+  }
+}
+
+/* Abstract pages, identified by the author block MyST renders from frontmatter */
+article:has(.myst-fm-authors-affiliations) .myst-fm-block-title {
+  font-size: 1.75rem !important;
+  line-height: 1.25 !important;
+}
+
+article:has(.myst-fm-authors-affiliations) .myst-fm-author {
+  font-size: 1.0625rem !important;
+}
+
+article:has(.myst-fm-authors-affiliations) .myst-fm-affiliation-col {
+  font-size: 1rem !important;
+}
+
+article:has(.myst-fm-authors-affiliations) .myst-bibliography-list {
+  font-size: 0.9375rem !important;
+  line-height: 1.55 !important;
+}
+
+/* Social program photos */
+.social-photo,
+.social-photo img,
+figure.social-photo img {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: 240px !important;
+  object-fit: cover !important;
+  border-radius: 10px !important;
+  display: block !important;
+  margin: 0.75rem 0 0.25rem !important;
+}
+
+figure.social-photo {
+  width: 100% !important;
+  height: auto !important;
+  margin: 0.75rem 0 0 !important;
+}
+
+.social-credit {
+  display: block;
+  margin-top: 0.4rem;
+  font-size: 0.75rem;
+  opacity: 0.65;
+}
+
+/* Hero box brand column */
+.hero-inner {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}
+
+.hero-brand {
+  flex: 0 0 auto;
+  padding-right: 32px;
+  border-right: 1px solid rgba(15, 23, 42, 0.12);
+}
+
+html.dark .hero-brand,
+.dark .hero-brand {
+  border-right-color: rgba(255, 255, 255, 0.18);
+}
+
+.hero-logo {
+  width: 170px !important;
+  height: auto !important;
+  margin: 0 !important;
+}
+
+.hero-content {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+@media (max-width: 820px) {
+  .hero-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+  }
+
+  .hero-brand {
+    padding-right: 0;
+    border-right: none;
+  }
+
+  .hero-logo {
+    width: 140px !important;
+  }
+}
+
+/* Cross-reference hover preview. The theme's dark values give too little contrast */
+html.dark .hover-card-content,
+.dark .hover-card-content {
+  --myst-color-bg: #1e293b;
+  --myst-color-bg-secondary: #0f172a;
+  --myst-color-border: #475569;
+  --myst-color-text: #f8fafc;
+  --myst-color-text-secondary: #cbd5e1;
+  --myst-color-text-tertiary: #94a3b8;
+}
+
+html.dark .hover-card-content,
+.dark .hover-card-content {
+  background-color: #1e293b !important;
+  border-radius: 0.25rem !important;
+}
+
+html.dark .hover-document,
+.dark .hover-document {
+  background-color: #1e293b !important;
+  border-color: #475569 !important;
+  color: #f1f5f9 !important;
+}
+
+html.dark .hover-document *,
+.dark .hover-document * {
+  color: #f1f5f9 !important;
+}
+
+html.dark .hover-document p,
+.dark .hover-document p {
+  color: #cbd5e1 !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) .hover-document {
+    background-color: #1e293b !important;
+    border-color: #475569 !important;
+    color: #f1f5f9 !important;
+  }
+
+  :root:not(.light) .hover-document * {
+    color: #f1f5f9 !important;
+  }
+
+  :root:not(.light) .hover-document p {
+    color: #cbd5e1 !important;
+  }
+}
+
+html.dark .hover-card-content h1,
+html.dark .hover-card-content h2,
+html.dark .hover-card-content h3,
+html.dark .hover-card-content h4,
+html.dark .hover-card-content .myst-fm-block-title,
+html.dark .hover-card-content strong,
+html.dark .hover-card-content a,
+.dark .hover-card-content h1,
+.dark .hover-card-content h2,
+.dark .hover-card-content h3,
+.dark .hover-card-content h4,
+.dark .hover-card-content .myst-fm-block-title,
+.dark .hover-card-content strong,
+.dark .hover-card-content a {
+  color: #f8fafc !important;
+  -webkit-text-fill-color: #f8fafc !important;
+}

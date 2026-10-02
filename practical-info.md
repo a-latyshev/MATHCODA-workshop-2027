@@ -1,20 +1,14 @@
 ---
 title: Practical Information
-description: Venue, travel directions, accommodation, and attendee guide for MATHCODA 2027
+description: Venue, travel directions, and attendee guide for MATHCODA 2027
 ---
 
 # Practical Information
 
-Everything you need to plan your arrival, stay, and workshop experience at the University of Luxembourg.
-
----
-
 ## Workshop Venue
 
-The workshop will be held in the iconic **Maison du Savoir (MSA)** on **Campus Belval**, the main research hub of the University of Luxembourg.
-
 * **Room**: **MSA 3.370** (3rd Floor)
-* **Building**: Maison du Savoir (MSA)
+* **Building**: Maison du Savoir (MSA), Campus Belval
 * **Address**:  
   [University of Luxembourg — Campus Belval](https://maps.app.goo.gl/NxCNyCJVaXuqY1mx7)  
   2, avenue de l'Université  
@@ -33,60 +27,36 @@ The workshop will be held in the iconic **Maison du Savoir (MSA)** on **Campus B
 
 ## Travel to Luxembourg
 
-**Free Public Transport & Travel Apps in Luxembourg**  
-Public transportation (all trains in 2nd class, trams, and regional buses) is
-**completely free of charge** across the entire territory of Luxembourg! You do
-**not** need to buy tickets or validate passes. Simply step on board!
+Public transport across Luxembourg is free. This covers all trains in 2nd
+class, trams and regional buses. No ticket is needed.
 
 :::{tip}
-📱 **Trip Planning & Live Timetables**: We strongly recommend installing the
-official **[CFL mobile app](https://www.cfl.lu/fr-fr/app/cflgo)** or
-**[Citymapper](https://citymapper.com/luxembourg)** on your smartphone for real-time
-train schedules, platform notifications, bus itineraries, and seamless
-door-to-door navigation in Luxembourg.
+📱 For timetables and routing, use Google Maps, the
+**[CFL app](https://www.cfl.lu/fr-fr/app/cflgo)** or
+**[Citymapper](https://citymapper.com/luxembourg)**.
 :::
+
+### By Air (Luxembourg Airport — LUX)
+
+* Tram **Line T1** or **Bus 29** from the airport to **Luxembourg Gare Centrale**
+  (approx. 15–20 minutes).
+* From Gare Centrale, take the direct train to **Belval-Université**.
+
+### By Train
+
+* Regional train from **Luxembourg Gare Centrale** to **Belval-Université**.
+* Trains depart every 15 minutes; the journey takes approximately 30 minutes.
+* **Belval-Université** station is a 3-minute walk from Maison du Savoir.
 
 ---
 
-### By Air (Luxembourg Airport - LUX)
-* Luxembourg Airport (*Findel*) is well connected to Luxembourg City:
-  * Take the **Tram (Line T1)** directly from the airport to **Luxembourg Gare Centrale** and the city center.
-  * Alternatively, take **Bus 29** directly to **Luxembourg Gare Centrale** (approx. 15–20 minutes).
-* From **Luxembourg Gare Centrale**, take the direct train to
-  **Belval-Université**.
-
-### By Train
-* Take the regional train from **Luxembourg Gare Centrale** to
-  **Belval-Université** station.
-* Trains depart every 15 minutes and the journey takes approximately 30 minutes.
-* The station **Belval-Université** is directly adjacent to Campus Belval and
-  Maison du Savoir (a 3-minute walk).
-
-
-
 ## Accommodation
 
-We recommend booking accommodation directly on Campus Belval for maximum convenience within walking distance of the venue:
+Accommodation is booked by the organizing committee.
 
-::::{grid} 1 1 2 2
+---
 
-:::{grid-item-card} ibis Esch Belval
-**Location**: 12, Avenue du Rock'n'Roll, Esch-sur-Alzette  
-*Distance to Venue*: 2-minute walk to Maison du Savoir (MSA)  
-*Highlights*: Located in the heart of Belval Plaza, steps from restaurants, shops, and the Belval-Université train station.  
-[View on Google Maps](https://maps.app.goo.gl/wS32bKq1G3GgH1Fq8)
-:::
+## Wi-Fi
 
-:::{grid-item-card} Residhome Luxembourg Belval
-**Location**: 3, Boulevard du Jazz, Esch-sur-Alzette  
-*Distance to Venue*: 5-minute walk to Maison du Savoir (MSA)  
-*Highlights*: Modern aparthotel studios equipped with kitchenettes, ideal for comfort and flexibility.  
-[View on Google Maps](https://maps.app.goo.gl/95aZ5r7d7B5UfD8v7)
-:::
-
-::::
-
-## Wi-Fi & Catering
-
-* **eduroam**: Fast, secure Wi-Fi is available across all University of Luxembourg campus buildings. Simply log in using your home institution's credentials.
-* **Catering**: Coffee breaks and networking lunches are provided for all participants.
+**eduroam** is available across all University of Luxembourg campus buildings.
+Log in with your home institution's credentials.

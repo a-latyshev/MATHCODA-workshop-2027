@@ -124,12 +124,11 @@ jupyter-book clean --all
 ├── schedule.md            # Interactive 4-day workshop timetable and session chairs
 ├── speakers.md            # Keynote & invited speaker profiles
 ├── abstracts/             # Abstract submissions directory
-│   ├── index.md           # Abstracts hub
 │   └── template.md        # Author submission template with LaTeX math support
 ├── practical-info.md      # Venue guide (Maison du Savoir), transit tips, and hotels
 ├── social.md              # City tours, Belval blast furnaces, and conference dinner
-├── registration.md        # Registration procedure and attendee checklist
-├── footer.md              # Custom footer banner (Uni.lu, FSTM, MATHCODA, FNR logos + CC-BY disclaimer)
+├── registration.md        # Invite-only attendance notice and contact
+├── footer.md              # Custom footer banner (Uni.lu, FSTM, MATHCODA, FNR logos + funding note)
 ├── custom.css             # Custom styling for light/dark modes, cards, and typography
 ├── myst.yml               # Jupyter Book 2 / MyST configuration
 ├── build.sh               # Local build & development helper script

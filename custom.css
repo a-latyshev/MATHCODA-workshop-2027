@@ -752,45 +752,54 @@ html.dark .mathcoda-disclaimer-text a:hover,
 }
 
 
-/* FNR funding highlight on the landing page */
-.fnr-funding {
+/* Funding strip inside the hero box */
+.hero-funding {
   display: flex;
   align-items: center;
-  gap: 2rem;
-  margin: 2.5rem 0;
-  padding: 1.75rem 2rem;
-  border: 1px solid var(--mathcoda-border);
-  border-left: 5px solid var(--mathcoda-accent);
-  border-radius: 12px;
-  background: var(--mathcoda-card-bg);
+  gap: 1.5rem;
+  margin-top: 1.75rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(15, 23, 42, 0.12);
 }
 
-.fnr-funding-logo-link {
+.hero-funding-logo-link {
   flex: 0 0 auto;
   display: block;
 }
 
-.fnr-funding-logo {
-  width: 220px;
+.hero-funding-logo {
+  width: 150px !important;
   max-width: 100%;
-  height: auto;
+  height: auto !important;
+  margin: 0 !important;
 }
 
-.fnr-funding-text p:last-child {
-  margin: 0;
+.hero-funding p {
+  margin: 0 !important;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #475569 !important;
 }
 
-html.dark .fnr-funding,
-.dark .fnr-funding {
-  background: rgba(255, 255, 255, 0.03);
-  border-color: rgba(255, 255, 255, 0.12);
+.hero-funding code {
+  font-size: 0.85em;
+}
+
+html.dark .hero-funding,
+.dark .hero-funding {
+  border-top-color: rgba(255, 255, 255, 0.18);
+}
+
+html.dark .hero-funding p,
+.dark .hero-funding p {
+  color: #cbd5e1 !important;
 }
 
 @media (max-width: 640px) {
-  .fnr-funding {
+  .hero-funding {
     flex-direction: column;
     align-items: flex-start;
-    gap: 1.25rem;
+    gap: 1rem;
   }
 }
 

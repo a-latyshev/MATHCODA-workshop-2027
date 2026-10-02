@@ -54,17 +54,17 @@ The scientific programme is structured into four focused scientific tracks:
 
 ::::{grid} 1
 
-:::{grid-item-card} Day 1: Statistical Inference & Modelling
+:::{grid-item-card} Day 1: Statistical Inference and Modelling
 **Monday, 25 January 2027**  
 *Coordinator: Sophia Loizidou*
 :::
 
-:::{grid-item-card} Day 2: Economics & Stochastic Processes
+:::{grid-item-card} Day 2: Economics and Stochastic Processes
 **Tuesday, 26 January 2027**  
 *Coordinators: Francisco Pina & Ali Atabaigialami*
 :::
 
-:::{grid-item-card} Day 3: Probability & Random Structures
+:::{grid-item-card} Day 3: Probability
 **Wednesday, 27 January 2027**  
 *Coordinators: Luís da Maia & Lucia Celli*
 :::

@@ -13,7 +13,7 @@ Networking and informal discussions are central to the MATHCODA spirit. We have 
 
 :::{grid-item-card} 🏛️ Luxembourg City Tour
 **Monday, 25 January 2027 (15:00–18:00)**  
-*Meeting Point*: [Belval-Université Station](https://maps.app.goo.gl/eWabziSqMn6uJkVCA)
+*Meeting Point*: [Belval-Université station](https://maps.app.goo.gl/eWabziSqMn6uJkVCA)
 
 A 2 to 3 hour guided historical walk through Luxembourg City's UNESCO World Heritage old quarters and fortifications:
 * **Chemin de la Corniche**: Known as "Europe's most beautiful balcony", offering panoramic vistas over the Alzette valley.

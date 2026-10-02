@@ -128,6 +128,7 @@ jupyter-book clean --all
 │   └── template.md        # Author submission template with LaTeX math support
 ├── practical-info.md      # Venue guide (Maison du Savoir), transit tips, and hotels
 ├── social.md              # City tours, Belval blast furnaces, and conference dinner
+├── registration.md        # Invite-only attendance notice and contact
 ├── footer.md              # Custom footer banner (Uni.lu, FSTM, MATHCODA, FNR logos + CC-BY disclaimer)
 ├── custom.css             # Custom styling for light/dark modes, cards, and typography
 ├── myst.yml               # Jupyter Book 2 / MyST configuration

@@ -42,6 +42,8 @@ project:
       title: Practical Information
     - file: social.md
       title: Social Program
+    - file: registration.md
+      title: Registration
 
 site:
   template: book-theme
@@ -55,7 +57,5 @@ site:
   actions:
     - title: University of Luxembourg
       url: https://www.uni.lu
-    - title: Department of Mathematics
-      url: https://math.uni.lu
     - title: Contact
       url: mailto:luis.maia@uni.lu

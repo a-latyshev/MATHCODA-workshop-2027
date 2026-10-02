@@ -857,3 +857,22 @@ html.dark .fnr-funding-lead,
     gap: 1.25rem;
   }
 }
+
+/* Abstract pages, identified by the author block MyST renders from frontmatter */
+article:has(.myst-fm-authors-affiliations) .myst-fm-block-title {
+  font-size: 1.75rem !important;
+  line-height: 1.25 !important;
+}
+
+article:has(.myst-fm-authors-affiliations) .myst-fm-author {
+  font-size: 1.0625rem !important;
+}
+
+article:has(.myst-fm-authors-affiliations) .myst-fm-affiliation-col {
+  font-size: 1rem !important;
+}
+
+article:has(.myst-fm-authors-affiliations) .myst-bibliography-list {
+  font-size: 0.9375rem !important;
+  line-height: 1.55 !important;
+}

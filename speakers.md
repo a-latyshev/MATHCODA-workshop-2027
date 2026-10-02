@@ -13,7 +13,7 @@ The MATHCODA Workshop 2027 convenes international experts across statistics, eco
 
 ::::{grid} 1 1 2 2
 
-:::{grid-item-card} Keynote Speaker (Statistics)
+:::{grid-item-card} Keynote Speaker (Day 1)
 *To be announced*
 :::
 
@@ -24,11 +24,11 @@ The MATHCODA Workshop 2027 convenes international experts across statistics, eco
 [Read Abstract »](abstracts/index.md#victor-chernozhukov)
 :::
 
-:::{grid-item-card} Keynote Speaker (Probability)
+:::{grid-item-card} Keynote Speaker (Day 3)
 *To be announced*
 :::
 
-:::{grid-item-card} Keynote Speaker (Engineering UQ)
+:::{grid-item-card} Keynote Speaker (Day 4)
 *To be announced*
 :::
 
@@ -38,12 +38,11 @@ The MATHCODA Workshop 2027 convenes international experts across statistics, eco
 
 ## Invited Speakers
 
-### Day 1: Statistical Inference & Modelling
+### Day 1: Statistical Inference and Modelling
 
 ::::{grid} 1 2 2 2
 
 :::{grid-item-card} To be announced
-<span class="badge-invited">Invited Speakers</span>  
 Speaker announcements for this day are forthcoming.
 :::
 
@@ -56,25 +55,21 @@ Speaker announcements for this day are forthcoming.
 ::::{grid} 1 2 2 2
 
 :::{grid-item-card} Prof. Chiara Amorino
-<span class="badge-invited">Invited Speaker</span>  
 **Universitat Pompeu Fabra, Spain**  
 [Read Abstract »](abstracts/index.md#chiara-amorino)
 :::
 
 :::{grid-item-card} Prof. Marc Henry
-<span class="badge-invited">Invited Speaker</span>  
 **Penn State University, USA**  
 [Read Abstract »](abstracts/index.md#marc-henry)
 :::
 
 :::{grid-item-card} Prof. Isaiah Andrews
-<span class="badge-invited">Invited Speaker</span>  
 **Massachusetts Institute of Technology (MIT), USA**  
 [Read Abstract »](abstracts/index.md#isaiah-andrews)
 :::
 
 :::{grid-item-card} Prof. Mathieu Rosenbaum
-<span class="badge-invited">Invited Speaker</span>  
 **École Polytechnique, France**  
 [Read Abstract »](abstracts/index.md#mathieu-rosenbaum)
 :::
@@ -88,7 +83,6 @@ Speaker announcements for this day are forthcoming.
 ::::{grid} 1 2 2 2
 
 :::{grid-item-card} To be announced
-<span class="badge-invited">Invited Speakers</span>  
 Speaker announcements for this day are forthcoming.
 :::
 
@@ -96,21 +90,12 @@ Speaker announcements for this day are forthcoming.
 
 ---
 
-### Day 4: Uncertainty Quantification in Engineering Applications
+### Day 4: Uncertainty in Mechanics
 
 ::::{grid} 1 2 2 2
 
-:::{grid-item-card} Computational Engineering & UQ
-<span class="badge-invited">Invited Speakers</span>  
-*Speakers to be announced*  
-[Abstracts »](abstracts/index.md#day-4-engineering)
-:::
-
-:::{grid-item-card} Doctoral Research Spotlights
-<span class="badge-invited">Doctoral Presentations</span>  
-*MATHCODA DTU Candidates*  
-Presentations by doctoral candidates showcasing interdisciplinary research combining mathematical data analytics with real-world engineering simulations.  
-[Abstracts »](abstracts/index.md#day-4-engineering)
+:::{grid-item-card} To be announced
+Speaker announcements for this day are forthcoming.
 :::
 
 ::::

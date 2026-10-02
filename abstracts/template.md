@@ -52,7 +52,7 @@ BIBTEX REFERENCES:
 
 If you prefer preparing your abstract in LaTeX, you can use the template below.
 You may include standard mathematical equations (`amsmath`) and figures. Send a
-single `.tex` file: the BibTeX entries are embedded in it, so no separate `.bib`
+single `.tex` file. The BibTeX entries are embedded in it, so no separate `.bib`
 file is needed.
 
 ```latex

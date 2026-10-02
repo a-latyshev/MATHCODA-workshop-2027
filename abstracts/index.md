@@ -30,13 +30,13 @@ Keynote speakers for Days 1, 3 and 4 will be announced.
 
 ---
 
-## Invited Talks: Day 1 (Statistical Inference)
+## Invited Talks: Day 1 (Statistical Inference and Modelling)
 
 *Speakers and abstracts to be announced.*
 
 ---
 
-## Invited Talks: Day 2 (Economics & Stochastics)
+## Invited Talks: Day 2 (Economics and Stochastic Processes)
 
 (chiara-amorino)=
 ### Chiara Amorino

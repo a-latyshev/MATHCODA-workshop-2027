@@ -15,7 +15,7 @@ All presentations and sessions take place in **Room MSA 3.370** (3rd Floor), Mai
 
 ## Week at a Glance
 
-| Time | Monday, 25 Jan (Statistics) | Tuesday, 26 Jan (Economics/Stochastics) | Wednesday, 27 Jan (Probability) | Thursday, 28 Jan (Uncertainty in Mechanics) |
+| Time | Monday, 25 Jan (Statistical Inference and Modelling) | Tuesday, 26 Jan (Economics and Stochastic Processes) | Wednesday, 27 Jan (Probability) | Thursday, 28 Jan (Uncertainty in Mechanics) |
 | :--- | :--- | :--- | :--- | :--- |
 | **08:00–08:45** | Registration & Welcome Coffee | - | - | - |
 | **08:45–09:00** | **Opening Ceremony** | - | - | - |
@@ -92,7 +92,7 @@ Use the tabs below to view the daily structure. Talk titles and speaker assignme
 ```
 
 ```{tab-item} Day 4: Thursday, 28 Jan
-**Day 4: Uncertainty Mechanics**  
+**Day 4: Uncertainty in Mechanics**  
 *Date*: Thursday, 28 January 2027  
 *Location*: Room MSA 3.370
 

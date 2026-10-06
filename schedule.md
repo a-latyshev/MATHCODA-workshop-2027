@@ -39,7 +39,7 @@ Use the tabs below to view the daily structure. Talk titles and speaker assignme
 :label: day-1
 **Day 1: Statistical Inference and Modelling**  
 *Date*: Monday, 25 January 2027  
-*Location*: Room MSA 3.370
+*Coordinator: Sophia Loizidou
 
 | Time | Event | Details |
 | :--- | :--- | :--- |
@@ -59,8 +59,7 @@ Use the tabs below to view the daily structure. Talk titles and speaker assignme
 :label: day-2
 **Day 2: Economics and Stochastic Processes**  
 *Date*: Tuesday, 26 January 2027  
-*Session Leads / Chairs*: Francisco Pina & Ali Atabaigialami  
-*Location*: Room MSA 3.370
+*Coordinators*: Francisco Pina & Ali Atabaigialami
 
 | Time | Event | Details |
 | :--- | :--- | :--- |
@@ -77,8 +76,8 @@ Use the tabs below to view the daily structure. Talk titles and speaker assignme
 ```{tab-item} Day 3: Wednesday, 27 Jan
 :label: day-3
 **Day 3: Probability**  
-*Date*: Wednesday, 27 January 2027  
-*Location*: Room MSA 3.370
+*Date*: Wednesday, 27 January 2027
+*Coordinators*: Luís da Maia & Lucia Celli
 
 | Time | Event | Details |
 | :--- | :--- | :--- |
@@ -96,7 +95,7 @@ Use the tabs below to view the daily structure. Talk titles and speaker assignme
 :label: day-4
 **Day 4: Uncertainty in Mechanics**  
 *Date*: Thursday, 28 January 2027  
-*Location*: Room MSA 3.370
+*Coordinator*: Andrey Latyshev
 
 | Time | Event | Details |
 | :--- | :--- | :--- |

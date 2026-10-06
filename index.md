@@ -89,7 +89,7 @@ Doctoral researchers:
 * [**Sophia Loizidou**](https://sites.google.com/view/sophia-loizidou/home) — Department of Mathematics
 * [**Andrey Latyshev**](https://www.linkedin.com/in/andrey-latyshev/) — Department of Engineering
 * [**Francisco Pina**](https://scholar.google.com/citations?user=1-bpGa0AAAAJ&hl=en) — Department of Mathematics
-* **Ali Atabaigialami** — Department of Finance
+* [**Ali Atabaigialami**](https://www.linkedin.com/in/ali-atabaigi-014229a2/) — Department of Finance
 * [**Lucia Celli**](https://scholar.google.com/citations?user=7BH36icAAAAJ&hl=en) — Department of Mathematics
 * [**Luís da Maia**](https://scholar.google.com/citations?user=-5pHl7EAAAAJ&hl=en) — Department of Mathematics
 

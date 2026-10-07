@@ -39,7 +39,7 @@ Use the tabs below to view the daily structure. Talk titles and speaker assignme
 :label: day-1
 **Day 1: Statistical Inference and Modelling**  
 *Date*: Monday, 25 January 2027  
-*Coordinator: Sophia Loizidou
+*Coordinator*: Sophia Loizidou
 
 | Time | Event | Details |
 | :--- | :--- | :--- |

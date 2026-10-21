@@ -14,12 +14,25 @@ Titles and abstracts are still being collected. Speakers may consult the
 
 ::::{grid} 1 2 2 2
 
+:::{grid-item-card} Prof. John Kent
+**University of Leeds, UK**  
+*Keynote talk*
+:::
+
+:::{grid-item-card} Prof. Andrea Meilan
+**Universidad Carlos III de Madrid, Spain**
+:::
+
+:::{grid-item-card} Prof. Dimitris Karlis
+**Athens University of Economics and Business, Greece**
+:::
+
 :::{grid-item-card} Sophia Loizidou
-**University of Luxembourg**
+**University of Luxembourg, Luxembourg**
 :::
 
 :::{grid-item-card} To be announced
-Speaker announcements for this day are forthcoming.
+Further speaker announcements for this day are forthcoming.
 :::
 
 ::::
@@ -53,11 +66,11 @@ Speaker announcements for this day are forthcoming.
 :::
 
 :::{grid-item-card} Francisco Pina
-**University of Luxembourg**
+**University of Luxembourg, Luxembourg**
 :::
 
 :::{grid-item-card} Ali Atabaigialami
-**University of Luxembourg**
+**University of Luxembourg, Luxembourg**
 :::
 
 ::::
@@ -68,16 +81,24 @@ Speaker announcements for this day are forthcoming.
 
 ::::{grid} 1 2 2 2
 
-:::{grid-item-card} Luís da Maia
-**University of Luxembourg**
+:::{grid-item-card} Prof. Torben Sell
+**University of Edinburgh, UK**
+:::
+
+:::{grid-item-card} Prof. Mihai Nica
+**University of Guelph, Canada**
+:::
+
+:::{grid-item-card} Prof. Stefano Favaro
+**University of Turin, Italy**
 :::
 
 :::{grid-item-card} Lucia Celli
-**University of Luxembourg**
+**University of Luxembourg, Luxembourg**
 :::
 
 :::{grid-item-card} To be announced
-Speaker announcements for this day are forthcoming.
+Further speaker announcements for this day are forthcoming.
 :::
 
 ::::
@@ -88,13 +109,25 @@ Speaker announcements for this day are forthcoming.
 
 ::::{grid} 1 2 2 2
 
+:::{grid-item-card} Prof. Johann Guilleminot
+**Duke University, USA**
+:::
+
+:::{grid-item-card} Prof. Bojana Rosić
+**TU Wien, Austria**
+:::
+
+:::{grid-item-card} Dr. Viachslav Karnaev
+**University of Basel, Switzerland**
+:::
+
 :::{grid-item-card} Andrey Latyshev
-**University of Luxembourg & Sorbonne Université**  
+**University of Luxembourg & Sorbonne Université, France**  
 [Read Abstract »](abstracts/day4/latyshev-fracture-nucleation/index.md#latyshev-abstract)
 :::
 
 :::{grid-item-card} To be announced
-Speaker announcements for this day are forthcoming.
+Further speaker announcements for this day are forthcoming.
 :::
 
 ::::

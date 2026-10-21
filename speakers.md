@@ -45,7 +45,7 @@ Further speaker announcements for this day are forthcoming.
 
 :::{grid-item-card} Prof. Victor Chernozhukov
 (prof-victor-chernozhukov)=
-**Massachusetts Institute of Technology (MIT), USA**  
+**Massachusetts Institute of Technology, USA**  
 *Keynote talk*
 :::
 

@@ -54,7 +54,7 @@ Further speaker announcements for this day are forthcoming.
 :::
 
 :::{grid-item-card} Prof. Marc Henry
-**Penn State University, USA**
+**Pennsylvania State University, USA**
 :::
 
 :::{grid-item-card} Prof. Isaiah Andrews

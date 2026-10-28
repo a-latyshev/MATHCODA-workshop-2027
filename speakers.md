@@ -28,7 +28,8 @@ Titles and abstracts are still being collected. Speakers may consult the
 :::
 
 :::{grid-item-card} Sophia Loizidou
-**University of Luxembourg, Luxembourg**
+**University of Luxembourg, Luxembourg**  
+[Read Abstract »](abstracts/day1/sophia-loizidou/sophia-loizidou.md#loizidou-abstract)
 :::
 
 :::{grid-item-card} To be announced
@@ -45,7 +46,7 @@ Further speaker announcements for this day are forthcoming.
 
 :::{grid-item-card} Prof. Victor Chernozhukov
 (prof-victor-chernozhukov)=
-**Massachusetts Institute of Technology, USA**  
+**Massachusetts Institute of Technology (MIT), USA**  
 *Keynote talk*
 :::
 
@@ -97,6 +98,10 @@ Further speaker announcements for this day are forthcoming.
 **University of Luxembourg, Luxembourg**
 :::
 
+:::{grid-item-card} Luís da Maia
+**University of Luxembourg, Luxembourg**
+:::
+
 :::{grid-item-card} To be announced
 Further speaker announcements for this day are forthcoming.
 :::
@@ -123,7 +128,7 @@ Further speaker announcements for this day are forthcoming.
 
 :::{grid-item-card} Andrey Latyshev
 **University of Luxembourg & Sorbonne Université, France**  
-[Read Abstract »](abstracts/day4/latyshev-fracture-nucleation/index.md#latyshev-abstract)
+[Read Abstract »](abstracts/day4/andrey-latyshev/andrey-latyshev.md#latyshev-abstract)
 :::
 
 :::{grid-item-card} To be announced

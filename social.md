@@ -6,6 +6,7 @@ description: Social activities and conference dinner for MATHCODA 2027
 ::::{grid} 1
 
 :::{grid-item-card} 🏛️ Luxembourg City Tour
+(luxembourg-city-tour)=
 ```{image} assets/social-luxembourg-city.jpg
 :alt: The Grund seen from the Chemin de la Corniche, Luxembourg City
 :class: social-photo
@@ -23,6 +24,7 @@ comfortable walking shoes.
 :::
 
 :::{grid-item-card} 🏭 Belval Blast Furnaces
+(belval-blast-furnaces)=
 ```{image} assets/social-belval.jpg
 :alt: Aerial view of the Belval blast furnaces and Campus Belval
 :class: social-photo
@@ -39,6 +41,7 @@ comfortable walking shoes.
 :::
 
 :::{grid-item-card} 🍽️ Conference Dinner
+(conference-dinner)=
 **Wednesday, 27 January 2027 (TBC)**  
 *Venue*: TBC
 

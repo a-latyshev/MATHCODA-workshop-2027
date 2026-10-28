@@ -23,9 +23,9 @@ All presentations and sessions take place in **Room MSA 3.370** (3rd Floor), Mai
 | **11:15–11:30** | *Break* | *Break* | *Break* | *Break* |
 | **11:30–12:30** | 2 Talks | 2 Talks | 2 Talks | 2 Talks |
 | **12:30–13:45** | *Lunch Break* | *Lunch Break* | *Lunch Break* | *Lunch Break* |
-| **13:45–14:45** | Talks | Talks | Talks | Talks |
-| **15:00–15:30** | - | - | - | **Closing Ceremony** |
-| **Evening** | 🏛️ **Luxembourg City Tour** | 🏭 **Belval Blast Furnaces** | 🍽️ **Conference Dinner** | Departures |
+| **13:45–14:15** | 1 Talk | 1 Talk | 1 Talk | 1 Talk |
+| **14:15–14:45** | - | 1 Talk | 1 Talk | **Closing Ceremony** |
+| **Evening** | [🏛️ **Luxembourg City Tour**](social.md#luxembourg-city-tour) | [🏭 **Belval Blast Furnaces**](social.md#belval-blast-furnaces) | [🍽️ **Conference Dinner**](social.md#conference-dinner) | Departures |
 
 ---
 
@@ -51,8 +51,8 @@ Use the tabs below to view the daily structure. Talk titles and speaker assignme
 | **11:15 – 11:30** | *Break* |  |
 | **11:30 – 12:30** | **Talks** |  |
 | **12:30 – 13:45** | *Lunch Break* |  |
-| **13:45 – 14:45** | **Talks** |  |
-| **15:00 – 18:00** | 🏛️ **Social Activity: Luxembourg City Tour** | Guided historical walk exploring the Old Town, Casemates du Bock, and Alzette valley |
+| **13:45 – 14:15** | **Sophia Loizidou** | [Arctan-skewing: a new skewing scheme on the hypertorus](abstracts/day1/sophia-loizidou/sophia-loizidou.md#loizidou-abstract) |
+| **15:00 – 18:00** | [🏛️ **Social Activity: Luxembourg City Tour**](social.md#luxembourg-city-tour) | Guided historical walk exploring the Old Town, Casemates du Bock, and Alzette valley |
 ```
 
 ```{tab-item} Day 2: Tuesday, 26 Jan
@@ -69,14 +69,15 @@ Use the tabs below to view the daily structure. Talk titles and speaker assignme
 | **11:15 – 11:30** | *Break* |  |
 | **11:30 – 12:30** | **Talks** |  |
 | **12:30 – 13:45** | *Lunch Break* |  |
-| **13:45 – 14:45** | **Talks** |  |
-| **15:45 – 18:00** | 🏭 **Social Activity: Visit to High Blast Furnaces** | Guided architectural & industrial heritage visit of Hauts Fourneaux Belval |
+| **13:45 – 14:15** | **Francisco Pina** | TBA |
+| **14:15 – 14:45** | **Ali Atabaigialami** | TBA |
+| **15:45 – 18:00** | [🏭 **Social Activity: Visit to High Blast Furnaces**](social.md#belval-blast-furnaces) | Guided architectural & industrial heritage visit of Hauts Fourneaux Belval |
 ```
 
 ```{tab-item} Day 3: Wednesday, 27 Jan
 :label: day-3
 **Day 3: Probability**  
-*Date*: Wednesday, 27 January 2027
+*Date*: Wednesday, 27 January 2027  
 *Coordinators*: Luís da Maia & Lucia Celli
 
 | Time | Event | Details |
@@ -87,8 +88,9 @@ Use the tabs below to view the daily structure. Talk titles and speaker assignme
 | **11:15 – 11:30** | *Break* |  |
 | **11:30 – 12:30** | **Talks** |  |
 | **12:30 – 13:45** | *Lunch Break* |  |
-| **13:45 – 14:45** | **Talks** |  |
-| **19:00 – 22:30** | 🍽️ **Conference Dinner** | (Venue details TBA) |
+| **13:45 – 14:15** | **Lucia Celli** | TBA |
+| **14:15 – 14:45** | **Luís da Maia** | TBA |
+| **19:00 – 22:30** | [🍽️ **Conference Dinner**](social.md#conference-dinner) | (Venue details TBA) |
 ```
 
 ```{tab-item} Day 4: Thursday, 28 Jan
@@ -105,7 +107,7 @@ Use the tabs below to view the daily structure. Talk titles and speaker assignme
 | **11:15 – 11:30** | *Break* |  |
 | **11:30 – 12:30** | **Talks** |  |
 | **12:30 – 13:45** | *Lunch Break* |  |
-| **13:45 – 14:45** | **Talks** |  |
+| **13:45 – 14:15** | **Andrey Latyshev** | [Influence of surface imperfections on fracture nucleation in phase-field](abstracts/day4/andrey-latyshev/andrey-latyshev.md#latyshev-abstract) |
 | **15:00 – 15:30** | **Closing Ceremony & Farewell** | Concluding remarks and workshop closure |
 ```
 

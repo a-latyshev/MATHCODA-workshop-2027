@@ -348,6 +348,24 @@ td:first-child {
   min-width: 9.5rem !important;
 }
 
+/* Maintain consistent column alignment across daily schedule tabs */
+.myst-tab-set table th:first-child,
+.myst-tab-set table td:first-child {
+  width: 11rem !important;
+  min-width: 9.5rem !important;
+  white-space: nowrap !important;
+}
+
+.myst-tab-set table th:nth-child(2),
+.myst-tab-set table td:nth-child(2) {
+  width: 32% !important;
+}
+
+.myst-tab-set table th:nth-child(3),
+.myst-tab-set table td:nth-child(3) {
+  width: 50% !important;
+}
+
 tbody tr:hover {
   background-color: #f8fafc !important;
 }

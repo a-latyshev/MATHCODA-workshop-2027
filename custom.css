@@ -979,3 +979,131 @@ html.dark .hover-card-content a,
   color: #f8fafc !important;
   -webkit-text-fill-color: #f8fafc !important;
 }
+
+/* --------------------------------------------------------------------------
+   Author Popover Details (Dark Mode High Contrast Fix)
+   -------------------------------------------------------------------------- */
+html.dark .myst-fm-author-popover-content,
+.dark .myst-fm-author-popover-content {
+  background-color: #1e293b !important;
+  border: 1px solid #334155 !important;
+  color: #f1f5f9 !important;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5), 0 8px 10px -6px rgba(0, 0, 0, 0.5) !important;
+}
+
+html.dark .myst-fm-author-popover-name,
+.dark .myst-fm-author-popover-name {
+  color: #f8fafc !important;
+  -webkit-text-fill-color: #f8fafc !important;
+  font-weight: 600 !important;
+}
+
+html.dark .myst-fm-author-popover-affiliations,
+html.dark .myst-fm-author-popover-affiliations *,
+.dark .myst-fm-author-popover-affiliations,
+.dark .myst-fm-author-popover-affiliations * {
+  color: #cbd5e1 !important;
+  -webkit-text-fill-color: #cbd5e1 !important;
+}
+
+html.dark .myst-fm-author-popover-details,
+html.dark .myst-fm-author-popover-details > *,
+html.dark .myst-fm-popover-definition,
+.dark .myst-fm-author-popover-details,
+.dark .myst-fm-author-popover-details > *,
+.dark .myst-fm-popover-definition {
+  border-color: #334155 !important;
+}
+
+html.dark .myst-fm-popover-definition-title,
+.dark .myst-fm-popover-definition-title {
+  color: #94a3b8 !important;
+  -webkit-text-fill-color: #94a3b8 !important;
+  font-weight: 500 !important;
+}
+
+html.dark .myst-fm-popover-definition-value,
+.dark .myst-fm-popover-definition-value {
+  color: #e2e8f0 !important;
+  -webkit-text-fill-color: #e2e8f0 !important;
+}
+
+html.dark .myst-fm-author-popover-content a,
+.dark .myst-fm-author-popover-content a {
+  color: #60a5fa !important;
+  -webkit-text-fill-color: #60a5fa !important;
+}
+
+html.dark .myst-fm-author-popover-content a:hover,
+.dark .myst-fm-author-popover-content a:hover {
+  color: #93c5fd !important;
+  -webkit-text-fill-color: #93c5fd !important;
+  text-decoration: underline !important;
+}
+
+html.dark .myst-fm-author-popover-content svg,
+html.dark .myst-fm-author-popover-content svg.fill-white,
+html.dark .myst-fm-author-popover-content svg polygon,
+html.dark .myst-fm-author-popover-content svg path,
+.dark .myst-fm-author-popover-content svg,
+.dark .myst-fm-author-popover-content svg.fill-white,
+.dark .myst-fm-author-popover-content svg polygon,
+.dark .myst-fm-author-popover-content svg path {
+  fill: #1e293b !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) .myst-fm-author-popover-content {
+    background-color: #1e293b !important;
+    border: 1px solid #334155 !important;
+    color: #f1f5f9 !important;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5), 0 8px 10px -6px rgba(0, 0, 0, 0.5) !important;
+  }
+
+  :root:not(.light) .myst-fm-author-popover-name {
+    color: #f8fafc !important;
+    -webkit-text-fill-color: #f8fafc !important;
+    font-weight: 600 !important;
+  }
+
+  :root:not(.light) .myst-fm-author-popover-affiliations,
+  :root:not(.light) .myst-fm-author-popover-affiliations * {
+    color: #cbd5e1 !important;
+    -webkit-text-fill-color: #cbd5e1 !important;
+  }
+
+  :root:not(.light) .myst-fm-author-popover-details,
+  :root:not(.light) .myst-fm-author-popover-details > *,
+  :root:not(.light) .myst-fm-popover-definition {
+    border-color: #334155 !important;
+  }
+
+  :root:not(.light) .myst-fm-popover-definition-title {
+    color: #94a3b8 !important;
+    -webkit-text-fill-color: #94a3b8 !important;
+    font-weight: 500 !important;
+  }
+
+  :root:not(.light) .myst-fm-popover-definition-value {
+    color: #e2e8f0 !important;
+    -webkit-text-fill-color: #e2e8f0 !important;
+  }
+
+  :root:not(.light) .myst-fm-author-popover-content a {
+    color: #60a5fa !important;
+    -webkit-text-fill-color: #60a5fa !important;
+  }
+
+  :root:not(.light) .myst-fm-author-popover-content a:hover {
+    color: #93c5fd !important;
+    -webkit-text-fill-color: #93c5fd !important;
+    text-decoration: underline !important;
+  }
+
+  :root:not(.light) .myst-fm-author-popover-content svg,
+  :root:not(.light) .myst-fm-author-popover-content svg.fill-white,
+  :root:not(.light) .myst-fm-author-popover-content svg polygon,
+  :root:not(.light) .myst-fm-author-popover-content svg path {
+    fill: #1e293b !important;
+  }
+}

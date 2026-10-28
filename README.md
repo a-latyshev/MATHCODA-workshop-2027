@@ -123,7 +123,12 @@ jupyter-book clean --all
 ├── index.md               # Homepage (Overview, scientific tracks, organizing committee)
 ├── schedule.md            # Interactive 4-day workshop timetable and session chairs
 ├── speakers.md            # Keynote & invited speaker profiles
-├── abstracts/             # Abstract submissions directory
+├── abstracts/             # Abstract pages and submission templates
+│   ├── day<N>/            # Day directories (day1, day2, day3, day4)
+│   │   └── <name>-<surname>/
+│   │       ├── <name>-<surname>.md   # MyST page (TOC title: <day>.<order> <Name> <Surname>)
+│   │       ├── references.bib        # (Optional) BibTeX citations
+│   │       └── src/                  # (Optional) Original source (.tex, etc.)
 │   └── template.md        # Author submission template with LaTeX math support
 ├── practical-info.md      # Venue guide (Maison du Savoir), transit tips, and hotels
 ├── social.md              # City tours, Belval blast furnaces, and conference dinner

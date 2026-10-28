@@ -27,8 +27,10 @@ project:
     - file: speakers.md
       title: Speakers
       children:
-        - file: abstracts/day4/latyshev-fracture-nucleation/index.md
-          title: 4. Latyshev
+        - file: abstracts/day1/sophia-loizidou/sophia-loizidou.md
+          title: 1.4 Sophia Loizidou
+        - file: abstracts/day4/andrey-latyshev/andrey-latyshev.md
+          title: 4.4 Andrey Latyshev
     - file: abstracts/template.md
       title: Submission Templates
     - file: practical-info.md

@@ -1,0 +1,47 @@
+\documentclass{article}
+\usepackage{amsmath,amssymb}
+\usepackage{cite}
+
+% Needs LaTeX 2019 or newer. Writes the .bib out at compile time
+% \begin{filecontents}[overwrite]{references.bib}
+% @article{author2026,
+%   title = {Title of paper},
+%   author = {Author, Firstname and Coauthor, Secondname},
+%   journal = {Journal of Mathematical Data Science},
+%   volume = {10},
+%   number = {2},
+%   pages = {123--145},
+%   year = {2026},
+%   doi = {10.1000/182}
+% }
+% \end{filecontents}
+
+\title{Arctan-skewing: a new skewing scheme on the hypertorus}
+
+% Speaker only, with affiliation and optional ORCID
+\author{
+  Sophia Loizidou\\
+  \textit{Department of Mathematics, University of Luxembourg, Luxembourg}\\
+  ORCID: 0009-0006-1372-7032
+}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+In this talk we propose and study arctan-skewing, a general approach to skew any symmetric distribution on the unit hypertorus. 
+Arctan-skewing retains the main advantages of the popular sine-skewing mechanism, but improves on it by overcoming its two major limitations. 
+These are a condition on the skewness parameter and a singular Fisher Information matrix in the vicinity of symmetry when combined with well-known symmetric models from the literature such as the circular von Mises or bivariate Cosine models. 
+Arctan-skewing thus represents a compelling alternative to model skewed data on the circle and torus, notably from the field of protein bioinformatics. 
+We present its stochastic properties and a maximum likelihood estimation procedure, and devise optimal tests for symmetry against our new class of skewed alternatives. 
+Finally we will show that arctan-skewed models better fit protein data compared to their sine-skewed counterparts.
+
+Joint work with Christophe Ley.
+\end{abstract}
+
+\bibliographystyle{plain}
+\bibliography{references}
+
+\end{document}

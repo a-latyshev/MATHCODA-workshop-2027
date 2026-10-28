@@ -1,5 +1,5 @@
 ---
-title: Influence of surface imperfections on fracture nucleation in phase-field
+title: Influence of stochastic surface imperfections on fracture nucleation in variational phase-field
 short_title: Fracture Nucleation
 description: Scientific abstract and presentation overview for MATHCODA Workshop 2027 by Andrey Latyshev.
 affiliations:

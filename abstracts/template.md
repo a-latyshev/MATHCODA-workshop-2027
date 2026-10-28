@@ -3,9 +3,12 @@ title: Abstract Submission Templates
 description: Submission templates for MATHCODA Workshop 2027 abstracts
 ---
 
-Invited speakers can submit their abstract as either **plain text (`.txt`)** or
-**LaTeX (`.tex`)** via email to
-[andrey.latyshev@uni.lu](mailto:andrey.latyshev@uni.lu).
+Invited speakers can submit their abstract using any of the following formats:
+- **Plain Text (`.txt`)**
+- **LaTeX (`.tex`)**
+- **MyST Markdown (`.md`)**
+
+Please send your submission via email to [andrey.latyshev@uni.lu](mailto:andrey.latyshev@uni.lu).
 
 ---
 
@@ -17,17 +20,21 @@ Your Presentation Title
 
 SPEAKER:
 Firstname K. Lastname
-  - Affiliation: Department of Mathematics, University of Luxembourg, Luxembourg.
-  - ORCID: 0000-0000-0000-0000 (optional)
+  - Affiliation: Department of Mathematics, University of Luxembourg, Luxembourg
+  - Email: firstname.lastname@uni.lu
+  - ORCID: 0000-0000-0000-0000
+
+CO-AUTHORS:
+- Coauthor Firstname Lastname
+  - Affiliation: Institute Name, University Name, Country
+  - ORCID: 0000-0000-0000-0000
 
 ABSTRACT:
 Provide a 200–300 word summary of your presentation. You can use standard LaTeX
 / KaTeX formulas like $\mathbb{E}[f(X)] = \int f(x) \mathrm{d}\mathbb{P}(x)$ if
 needed.
 
-Joint work with X, Y and Z.
-
-BIBTEX REFERENCES:
+BIBTEX REFERENCES (optional):
 @article{author2026,
   title = {Title of paper},
   author = {Author, Firstname and Coauthor, Secondname},
@@ -65,13 +72,17 @@ BIBTEX REFERENCES:
 
 \title{Your Presentation Title}
 
-% Speaker only, with affiliation and optional ORCID
+% Speaker (with email) and co-authors (without email)
 \author{
   Firstname K. Lastname\\
   \textit{Department of Mathematics, University of Luxembourg, Luxembourg}\\
+  \texttt{firstname.lastname@uni.lu}\\
+  ORCID: 0000-0000-0000-0000
+  \and
+  Coauthor Firstname Lastname\\
+  \textit{Institute Name, University Name, Country}\\
   ORCID: 0000-0000-0000-0000
 }
-\date{}
 
 \begin{document}
 
@@ -86,8 +97,6 @@ LaTeX mathematical notation:
 \end{equation}
 
 You can cite references using standard citation keys~\cite{author2026}.
-
-Joint work with X, Y and Z.
 \end{abstract}
 
 \bibliographystyle{plain}
@@ -95,3 +104,59 @@ Joint work with X, Y and Z.
 
 \end{document}
 ```
+
+---
+
+## Option 3: MyST Markdown Template (`.md`)
+
+````markdown
+---
+title: "Your Presentation Title"
+short_title: Short Title
+description: Scientific abstract and presentation overview for MATHCODA Workshop 2027 by Firstname Lastname.
+affiliations:
+  - id: unilu
+    name: University of Luxembourg
+    department: Department of Mathematics
+  - id: partner-inst
+    name: Partner Institution Name
+authors:
+  - name: Firstname K. Lastname
+    email: firstname.lastname@uni.lu
+    affiliations:
+      - unilu
+    orcid: 0000-0000-0000-0000
+    corresponding: true
+  - name: Coauthor Firstname Lastname
+    affiliations:
+      - partner-inst
+    orcid: 0000-0000-0000-0000
+bibliography:
+  - references.bib
+---
+
+(lastname-abstract)=
+# Your Presentation Title
+
+Provide a 200–300 word summary of your presentation. You can include standard
+inline math like $\mathbb{E}[f(X)]$, or display equations:
+
+$$
+\mathbb{E}[f(X)] = \int_{\Omega} f(x) \, \mathrm{d}\mathbb{P}(x)
+$$
+
+You can cite references using MyST citation syntax {cite:p}`author2026`.
+
+```{bibliography}
+:filter: docname in docnames
+```
+````
+
+---
+
+## Published Examples
+
+To see how submitted abstracts appear on the workshop website, consult the following live examples:
+
+- [Sophia Loizidou — Arctan-skewing: a new skewing scheme on the hypertorus](day1/sophia-loizidou/sophia-loizidou.md) (submitted via LaTeX)
+- [Andrey Latyshev — Influence of stochastic surface imperfections on fracture nucleation in variational phase-field](day4/andrey-latyshev/andrey-latyshev.md) (with display formulas and bibliography)

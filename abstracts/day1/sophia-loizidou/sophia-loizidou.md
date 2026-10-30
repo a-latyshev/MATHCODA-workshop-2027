@@ -13,10 +13,6 @@ authors:
       - unilu
     orcid: 0009-0006-1372-7032
     corresponding: true
-  - name: Christophe Ley
-    affiliations:
-      - unilu
-    orcid: 0000-0002-2290-8437
 ---
 
 (loizidou-abstract)=
@@ -35,3 +31,5 @@ and a maximum likelihood estimation procedure, and devise optimal tests for
 symmetry against our new class of skewed alternatives. Finally we will show that
 arctan-skewed models better fit protein data compared to their sine-skewed
 counterparts.
+
+Joint work with Christophe Ley (University of Luxembourg, Luxembourg).

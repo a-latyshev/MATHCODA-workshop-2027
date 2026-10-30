@@ -16,14 +16,6 @@ authors:
       - sorbonne
     orcid: 0009-0002-7512-0413
     corresponding: true
-  - name: Jack S. Hale
-    affiliations:
-      - unilu
-    orcid: 0000-0001-7216-861X
-  - name: Corrado Maurini
-    affiliations:
-      - sorbonne
-    orcid: 0000-0003-1088-3750
 bibliography:
   - references.bib
 ---
@@ -65,6 +57,8 @@ ratio between the defect root radius of curvature and the internal material
 length scale, in the case of sufficiently smooth surfaces. This stochastic
 analysis establishes a rigorous foundation for incorporating more realistic
 surface roughness into predictive fracture modelling.
+
+Joint work with Jack S. Hale (University of Luxembourg, Luxembourg) and Corrado Maurini (Sorbonne Université, France).
 
 ---
 

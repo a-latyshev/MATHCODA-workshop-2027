@@ -24,15 +24,12 @@ Firstname K. Lastname
   - Email: firstname.lastname@uni.lu
   - ORCID: 0000-0000-0000-0000
 
-CO-AUTHORS:
-- Coauthor Firstname Lastname
-  - Affiliation: Institute Name, University Name, Country
-  - ORCID: 0000-0000-0000-0000
-
 ABSTRACT:
 Provide a 200–300 word summary of your presentation. You can use standard LaTeX
 / KaTeX formulas like $\mathbb{E}[f(X)] = \int f(x) \mathrm{d}\mathbb{P}(x)$ if
 needed.
+
+Joint work with Coauthor Firstname Lastname (Institute Name, Country).
 
 BIBTEX REFERENCES (optional):
 @article{author2026,
@@ -72,15 +69,11 @@ BIBTEX REFERENCES (optional):
 
 \title{Your Presentation Title}
 
-% Speaker (with email) and co-authors (without email)
+% Speaker only, with affiliation, email, and optional ORCID
 \author{
   Firstname K. Lastname\\
   \textit{Department of Mathematics, University of Luxembourg, Luxembourg}\\
   \texttt{firstname.lastname@uni.lu}\\
-  ORCID: 0000-0000-0000-0000
-  \and
-  Coauthor Firstname Lastname\\
-  \textit{Institute Name, University Name, Country}\\
   ORCID: 0000-0000-0000-0000
 }
 
@@ -97,6 +90,8 @@ LaTeX mathematical notation:
 \end{equation}
 
 You can cite references using standard citation keys~\cite{author2026}.
+
+Joint work with Coauthor Firstname Lastname (Institute Name, Country).
 \end{abstract}
 
 \bibliographystyle{plain}
@@ -118,8 +113,6 @@ affiliations:
   - id: unilu
     name: University of Luxembourg
     department: Department of Mathematics
-  - id: partner-inst
-    name: Partner Institution Name
 authors:
   - name: Firstname K. Lastname
     email: firstname.lastname@uni.lu
@@ -127,10 +120,6 @@ authors:
       - unilu
     orcid: 0000-0000-0000-0000
     corresponding: true
-  - name: Coauthor Firstname Lastname
-    affiliations:
-      - partner-inst
-    orcid: 0000-0000-0000-0000
 bibliography:
   - references.bib
 ---
@@ -146,6 +135,8 @@ $$
 $$
 
 You can cite references using MyST citation syntax {cite:p}`author2026`.
+
+Joint work with Coauthor Firstname Lastname (Institute Name, Country).
 
 ```{bibliography}
 :filter: docname in docnames

@@ -27,13 +27,17 @@ Titles and abstracts are still being collected. Speakers may consult the
 **Athens University of Economics and Business, Greece**
 :::
 
+:::{grid-item-card} Prof. Robert Gaunt
+**University of Manchester, UK**
+:::
+
+:::{grid-item-card} Prof. Rosaria Simone
+**University of Naples Federico II, Italy**
+:::
+
 :::{grid-item-card} Sophia Loizidou
 **University of Luxembourg, Luxembourg**  
 [Read Abstract »](abstracts/day1/sophia-loizidou/sophia-loizidou.md#loizidou-abstract)
-:::
-
-:::{grid-item-card} To be announced
-Further speaker announcements for this day are forthcoming.
 :::
 
 ::::

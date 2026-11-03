@@ -87,8 +87,8 @@ Titles and abstracts are still being collected. Speakers may consult the
 ::::{grid} 1 2 2 2
 
 :::{grid-item-card} Prof. Bruno Loureiro 
+**École Normale Supérieure (ENS), France**
 *Keynote talk*
-**École Normale Supérieure, France**
 :::
 
 :::{grid-item-card} Prof. Stefano Favaro

@@ -86,16 +86,21 @@ Titles and abstracts are still being collected. Speakers may consult the
 
 ::::{grid} 1 2 2 2
 
+:::{grid-item-card} Prof. Bruno Loureiro 
+*Keynote talk*
+**École Normale Supérieure, France**
+:::
+
+:::{grid-item-card} Prof. Stefano Favaro
+**University of Turin, Italy**
+:::
+
 :::{grid-item-card} Prof. Torben Sell
 **University of Edinburgh, UK**
 :::
 
 :::{grid-item-card} Prof. Mihai Nica
 **University of Guelph, Canada**
-:::
-
-:::{grid-item-card} Prof. Stefano Favaro
-**University of Turin, Italy**
 :::
 
 :::{grid-item-card} Lucia Celli

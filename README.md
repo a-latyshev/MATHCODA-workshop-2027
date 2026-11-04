@@ -131,7 +131,7 @@ jupyter-book clean --all
 │   │       └── src/                  # (Optional) Original source (.tex, etc.)
 │   └── template.md        # Author submission template with LaTeX math support
 ├── practical-info.md      # Venue guide (Maison du Savoir), transit tips, and hotels
-├── social.md              # City tours, Belval blast furnaces, and conference dinner
+├── social.md              # Social programme (in preparation)
 ├── registration.md        # Invite-only attendance notice and contact
 ├── footer.md              # Custom footer banner (Uni.lu, FSTM, MATHCODA, FNR logos + funding note)
 ├── custom.css             # Custom styling for light/dark modes, cards, and typography

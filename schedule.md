@@ -25,9 +25,10 @@ All presentations and sessions take place in **Room MSA 3.370** (3rd Floor), Mai
 | **12:30–13:45** | *Lunch Break* | *Lunch Break* | *Lunch Break* | *Lunch Break* |
 | **13:45–14:15** | 1 Talk | 1 Talk | 1 Talk | 1 Talk |
 | **14:15–14:45** | - | 1 Talk | 1 Talk | **Closing Ceremony** |
-| **Evening** | [🏛️ **Luxembourg City Tour**](social.md#luxembourg-city-tour) | [🏭 **Belval Blast Furnaces**](social.md#belval-blast-furnaces) | [🍽️ **Conference Dinner**](social.md#conference-dinner) | Departures |
 
 ---
+
+The [social programme](social.md) is still being prepared. Details will be announced in due course.
 
 ## Detailed Daily Timetable
 
@@ -52,7 +53,6 @@ Use the tabs below to view the daily structure. Talk titles and speaker assignme
 | **11:30 – 12:30** | **Talks** |  |
 | **12:30 – 13:45** | *Lunch Break* |  |
 | **13:45 – 14:15** | **Sophia Loizidou** | [Arctan-skewing: a new skewing scheme on the hypertorus](abstracts/day1/sophia-loizidou/sophia-loizidou.md#loizidou-abstract) |
-| **15:00 – 18:00** | [🏛️ **Social Activity: Luxembourg City Tour**](social.md#luxembourg-city-tour) | Guided historical walk exploring the Old Town, Casemates du Bock, and Alzette valley |
 ```
 
 ```{tab-item} Day 2: Tuesday, 26 Jan
@@ -71,7 +71,6 @@ Use the tabs below to view the daily structure. Talk titles and speaker assignme
 | **12:30 – 13:45** | *Lunch Break* |  |
 | **13:45 – 14:15** | **Francisco Pina** | TBA |
 | **14:15 – 14:45** | **Ali Atabaigialami** | TBA |
-| **15:45 – 18:00** | [🏭 **Social Activity: Visit to High Blast Furnaces**](social.md#belval-blast-furnaces) | Guided architectural & industrial heritage visit of Hauts Fourneaux Belval |
 ```
 
 ```{tab-item} Day 3: Wednesday, 27 Jan
@@ -90,7 +89,6 @@ Use the tabs below to view the daily structure. Talk titles and speaker assignme
 | **12:30 – 13:45** | *Lunch Break* |  |
 | **13:45 – 14:15** | **Lucia Celli** | TBA |
 | **14:15 – 14:45** | **Luís da Maia** | TBA |
-| **19:00 – 22:30** | [🍽️ **Conference Dinner**](social.md#conference-dinner) | (Venue details TBA) |
 ```
 
 ```{tab-item} Day 4: Thursday, 28 Jan

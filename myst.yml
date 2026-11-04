@@ -26,11 +26,11 @@ project:
       title: Programme & Schedule
     - file: speakers.md
       title: Speakers
-      children:
-        - file: abstracts/day1/sophia-loizidou/sophia-loizidou.md
-          title: 1.4 Sophia Loizidou
-        - file: abstracts/day4/andrey-latyshev/andrey-latyshev.md
-          title: 4.4 Andrey Latyshev
+    # Keep abstract links available without showing a Speakers dropdown.
+    - file: abstracts/day1/sophia-loizidou/sophia-loizidou.md
+      hidden: true
+    - file: abstracts/day4/andrey-latyshev/andrey-latyshev.md
+      hidden: true
     - file: abstracts/template.md
       title: Submission Templates
     - file: practical-info.md

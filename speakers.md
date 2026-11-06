@@ -131,6 +131,10 @@ Further speaker announcements for this day are forthcoming.
 **TU Wien, Austria**
 :::
 
+:::{grid-item-card} Prof. Jeremy Bleyer
+**École nationale des ponts et chaussées, France**
+:::
+
 :::{grid-item-card} Dr. Viachslav Karnaev
 **University of Basel, Switzerland**
 :::
